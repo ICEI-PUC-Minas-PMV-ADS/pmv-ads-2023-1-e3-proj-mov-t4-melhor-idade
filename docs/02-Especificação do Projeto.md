@@ -33,34 +33,34 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 ### Análise da Situação Atual
 
-Atualmente, o controle e cuidados relacionados com a saúde dos idosos exige que o próprio idoso lembre de seus compromissos como realizar check-ups médicos, fazer o uso de medicação, exercícios físicos entre outros, criando uma dependência em relação a terceiros e familiares. Isso tudo é geralmente feito de forma manual, seja com anotações ou pela memória do próprio idoso.
+Atualmente, o controle e cuidados relacionados com a saúde dos idosos exige que o próprio idoso lembre de seus compromissos como realizar check-ups médicos, fazer o uso de medicação, exercícios físicos, entre outros, criando uma dependência em relação a terceiros e familiares. Isso tudo é geralmente feito de forma manual, seja com anotações ou pela memória do próprio idoso.
 
 ### Descrição Geral da Proposta
 
-A proposta do Melhor Idade é digitalizar todo o processo de acompanhamento, controle e registro médico, tornando mais fácil e eficaz para os idosos. Com o Melhor Idade um familiar ou amigo poderá acompanhar a saúde do idoso de forma remota, auxiliando o mesmo com seus compromissos. Também será possível criar lembretes com alarmes para uso de medicamento, consultas médicas e ingestão de água, o idoso poderá acompanhar tudo através de um registro de atividades.
+A proposta do Melhor Idade é digitalizar todo o processo de acompanhamento, controle e registro médico, tornando mais fácil e eficaz para os idosos. Com o Melhor Idade, um familiar ou amigo poderá acompanhar a saúde do idoso de forma remota, auxiliando o mesmo com seus compromissos. Também será possível criar lembretes com alarmes para uso de medicamentos, consultas médicas e ingestão de água. O idoso poderá acompanhar tudo através de um registro de atividades.
 
 ### Processo 1 – Cadastro de usuário
 ![image](https://user-images.githubusercontent.com/100742971/221708499-84ffc05b-f775-41ce-8120-767b51998890.png)
-
+Figura 2 - Processo de cadastro de usuário
 ### Processo 2 – Gerenciar Perfil
 ![image](https://user-images.githubusercontent.com/100742971/221708550-e878a977-7cef-4901-ad25-6a8c3e4db801.png)
-
+Figura 3 - Processo de gerenciamento de perfil
 ### Processo 3 – Cadastrar remédio
 ![image](https://user-images.githubusercontent.com/100742971/221708621-f0cbb818-9d2e-47d8-adc2-f65dd0b9f8fd.png)
-
+Figura 4 - Processo de cadastro de remédio
 ### Processo 4 – Registrar água
 ![image](https://user-images.githubusercontent.com/100742971/221708674-ae261d47-cc00-437e-93e3-75b6a5225949.png)
-
+Figura 5 - Processo de registro de ingestão de água
 ### Processo 5 – Alarme remédio
 ![image](https://user-images.githubusercontent.com/100742971/221708719-9adaf1af-9d7e-4b97-9465-01c31c211bae.png)
-
+Figura 6 - Processo de notificação para a ingestão de medicamentos
 ### Processo 6 – Compartilhar informações
 ![image](https://user-images.githubusercontent.com/100742971/221708773-1cbbaab5-ae6d-421c-a48f-be11c90032ef.png)
-
+Figura 7 - Processo de compartilhamento de informações
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
+Apresente aqui os principais indicadores de desempenho e algumas metas para o processo.
 
 | Indicador | Objetivos |     Descrição | Cálculo   | Fonte de dados | Perspectiva | Meta |
 |-----------------|-----------|---------------------|--------------|-----------------|--------------|--------|
@@ -100,7 +100,7 @@ A técnica de priorização de requisitos utilizada foi a Escala de Três Nívei
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100447878/221410981-1cba85ae-03f7-4367-97a7-a198fb7453f4.png" style="width:600px;height:400px;">
-    <figcaption>Figura 2 - Quadrante de priorização de requisitos</figcaption>
+    <figcaption>Figura 8 - Quadrante de priorização de requisitos</figcaption>
 </figure>
 
 ## Restrições
@@ -119,7 +119,7 @@ O diagrama contempla as principais ligações previstas entre casos de uso e ato
 
 ![melhor idade](https://user-images.githubusercontent.com/100734910/221376630-e15198d2-95f8-4efe-a6af-0b71e2930cdd.png)
 
-Figura 3 - Diagrama de casos de uso
+Figura 9 - Diagrama de casos de uso
 
 
 # Matriz de Rastreabilidade
@@ -142,10 +142,10 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 ## Gerenciamento de Tempo
 
-O diagrama abaixo nos permite gerenciar o tempo no projeto,a fim de estimar o tempo necessário para sua conclusão.
+O diagrama abaixo nos permite gerenciar o tempo no projeto, a fim de estimar o tempo necessário para sua conclusão.
 
 ![Gerenciamento de tempo](https://user-images.githubusercontent.com/81182674/221701137-c7b2b10f-1c6a-4439-aa45-747066329192.png)
-
+Figura 11 - Diagrama de gerenciamento de tempo do projeto
 
 
 

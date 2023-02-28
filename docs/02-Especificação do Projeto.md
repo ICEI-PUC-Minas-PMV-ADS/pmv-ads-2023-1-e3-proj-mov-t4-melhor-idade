@@ -1,10 +1,8 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="https://github.com/procopiodaiane/app_melhor_idade/blob/main/pmv-ads-2022-2-e3-proj-mov-t4-testegroupe/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md"> Documentação de Contexto</a></span>
+<span style="color:red">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/blob/main/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md"> Documentação de Contexto</a></span>
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
 
@@ -15,19 +13,6 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |3|![image](https://user-images.githubusercontent.com/81182674/221313242-d7619fc4-86d2-4731-a9ed-9aac12ff9d0d.png)|Marcos Nogueira Machado, tem 55 anos e é médico geriatra. Gosta muito de viajar com sua família, estudar e cozinhar. Ama sua profissão, mas enfrenta uma grande dificuldade em conseguir que seus pacientes, retornem anualmente para fazer o check-up. Gostaria que tivesse um meio que lembrasse com antecedência aos seus pacientes ou aos familiares destes, de agendar a próxima consulta.|
 |4|![image](https://user-images.githubusercontent.com/81182674/221313549-53930f50-59df-4924-ae0a-0b429ceb6164.png)|Pedro José Santos, tem 76 anos e é contador aposentado. Ama pintar quadros, assistir filmes de suspense e brincar com seus netos. É sedentário, e por recomendações médicas, deveria se exercitar ao menos 30 minutos por dia. Tem grande dificuldade de manter uma constância, e por isso gostaria que houvesse um meio que o lembrasse diariamente.|
 |5|![image](https://user-images.githubusercontent.com/81182674/221313743-ae5d0439-5e85-457f-86f9-bc57f117e10d.png)|Cláudia Brandão de Souza, tem 45 anos, é casada, e tem 2 filhos. Ama viajar, e cozinhar para a família. Se preocupa bastante com sua mãe,que já é idosa e mora sozinha. Sendo assim, gostaria que houvesse um meio que a permitisse ter um melhor controle da saúde da mesma.| 
-
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 

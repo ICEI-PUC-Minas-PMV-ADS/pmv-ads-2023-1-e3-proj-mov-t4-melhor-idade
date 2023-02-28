@@ -1,46 +1,31 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+De acordo com estudos realizados pela Organização Mundial de Saúde e apresentados na 69ª Assembleia Mundial de Saúde, que ocorreu em 2016, na Genebra, "entre os anos de 2000 e 2050, a proporção da população mundial com 60 anos ou mais dobrará, passando de 11% para 22%". Ainda, espera-se que "o número de pessoas com 60 anos ou mais aumente de 900 milhões em 2015 para 1,4 bilhão em 2030 e 2,1 bilhões em 2050, podendo chegar a 3,2 bilhões em 2100. Em 2050, as pessoas com 60 anos ou mais representarão 34% da população na Europa e 25% na América Latina, Caribe e Ásia". Na África, o número de pessoas com 60 anos ou mais aumentará de "46 milhões em 2015 para 147 milhões em 2050." (ORGANIZAÇÃO MUNDIAL DE SAÚDE, 2016, tradução nossa).
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Diante do exposto, o desafio que se busca superar com este projeto é a limitada assistência a qual os idosos tem sobre métodos mais práticos para auxiliar no cuidado próprio à sua saúde.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo deste projeto é a criação de uma aplicação móvel de fácil acesso para pessoas da terceira idade, com intuito de melhorar a qualidade de vida dos usuários através de funcionalidades que irão ajudá-los no seu dia-a-dia.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como objetivos específicos, podemos destacar:
+
+ - Auxiliar este público através de funcionalidades que permitam registrar informações sobre a sua saúde física e mental;
+ - Lembrá-los dos horários para tomarem seus medicamentos, se hidratarem, se exercitarem, e do próximo check-up médico;
+ - Compartilhar as informações registradas pelos usuários com parentes e/ou com médicos.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+De acordo com a pesquisa da Federação Brasileira de Bancos (FEBRABAN) e do Instituto de Pesquisas Sociais, Políticas e Econômicas (IPESPE), dentre as três mil pessoas ouvidas nas cinco regiões do país, entre 31 de agosto a 6 de setembro de 2022, os consultados com 60 anos ou mais, 64% têm acesso à internet. Para 88% deles, o principal dispositivo de acesso à internet é o celular ou smartphone. (FEBRABAN, 2022).
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O aumento do uso de smartphone aliado ao envelhecimento populacional influenciou na importância de uma aplicação móvel voltada para a saúde da população idosa, pois além de propiciar ao idoso o cuidado de sua própria saúde, também se torna uma ferramenta aliada de diagnóstico para profissionais de saúde e de consulta e esclarecimento para familiares.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Estabeleceu-se como público-alvo desta aplicação móvel pessoas com a faixa etária a partir de 60 anos que gostariam de registrar, de maneira simples e rápida, informações sobre sua saúde, e familiares e profissionais que fazem o acompanhamento da saúde física e mental destes idosos.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+<img src="https://user-images.githubusercontent.com/100447878/221361717-d0809024-5bdf-4705-a31c-a98a71866195.png">
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+<p>Os diagramas de personas podem ser consultados <a href="https://github.com/procopiodaiane/app_melhor_idade/blob/main/pmv-ads-2022-2-e3-proj-mov-t4-testegroupe/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md">aqui</a>.</p>

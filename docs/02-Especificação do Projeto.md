@@ -163,5 +163,5 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100447878/221411958-6d1f8585-5394-4aed-8240-0fb5efe5c589.png" style="width:800px;height:600px;">
-    <figcaption>Figura 4 - Orçamento do projeto</figcaption>
+    <figcaption>Figura 13 - Orçamento do projeto</figcaption>
 </figure>

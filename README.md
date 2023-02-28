@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# Melhor Idade
 
-`CURSO`
+## Análise e Desenvolvimento de Sistemas - PUC MINAS
 
-`DISCIPLINA`
+### Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio
 
-`SEMESTRE`
+#### 2023/1
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo deste projeto é a criação de uma aplicação móvel de fácil acesso para pessoas da terceira idade, com o intuito de melhorar a qualidade de vida dos usuários através de funcionalidades que irão auxiliá-los em seu dia-a-dia.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* [Daiane Campos Procópio](https://github.com/procopiodaiane)
+* [Fernanda Augusta de Barcelos Coura](https://github.com/fernandaabarcelos)
+* [Guilherme Faustini de Azevedo](https://github.com/GFaustini)
+* [Juliana Calazans Rodrigues de Magalhães](https://github.com/JulianaCalazans)
+* [Rúbia Karina Prado Costa](https://github.com/RubiaKarina)
 
 ## Orientador
 
-* Nome completo do professor 1
+* Mateus Curcino De Lima
 
 ## Instruções de utilização
 

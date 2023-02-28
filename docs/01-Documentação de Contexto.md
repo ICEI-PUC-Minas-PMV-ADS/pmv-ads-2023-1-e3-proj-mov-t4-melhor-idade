@@ -28,4 +28,4 @@ Estabeleceu-se como público-alvo desta aplicação móvel pessoas com a faixa e
 
 <img src="https://user-images.githubusercontent.com/100447878/221361717-d0809024-5bdf-4705-a31c-a98a71866195.png">
 
-<p>Os diagramas de personas podem ser consultados <a href="https://github.com/procopiodaiane/app_melhor_idade/blob/main/pmv-ads-2022-2-e3-proj-mov-t4-testegroupe/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md">aqui</a>.</p>
+<p>Os diagramas de personas podem ser consultados <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md">aqui</a>.</p>

@@ -27,7 +27,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Marcos Nogueira Machado  | Lembrete do próximo check-up               | Auxiliar os pacientes e familiares com antecedência sobre o agendamento do próximo check-up.|
 |Pedro José Santos        | Lembrete da prática de exercício físico                  | Lembrar de exercitar diariamente.|
 |Cláudia Brandão de Souza | Acompanhar a distância a saúde de familiares idosos    | Facilitar o acompanhamento à distância da saúde da mãe. |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Administrador       | Alterar permissões                 | Permitir que possam administrar contas. |
 
 ## Modelagem do Processo de Negócio 
 

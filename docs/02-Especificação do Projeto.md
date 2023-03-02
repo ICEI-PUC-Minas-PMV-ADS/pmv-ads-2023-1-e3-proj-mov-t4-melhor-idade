@@ -124,13 +124,18 @@ Figura 9 - Diagrama de casos de uso
 
 # Matriz de Rastreabilidade
 
-![WhatsApp Image 2023-03-01 at 16 03 54](https://user-images.githubusercontent.com/100734910/222242180-80abe39e-dceb-4be3-9953-8bef31e97a07.jpeg)
+A matriz de rastreabilidade abaixo contempla todos os elementos relevantes que fazem parte do sistema de software.
+
+![image](https://user-images.githubusercontent.com/100734910/222302756-93298a2d-82d3-4bec-8bba-4c5057111a10.png)
 
 
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-
-
+#### Referência:
+|Stakeholders - MS-EM-MM-PS-CS | 
+RF-Requisitos Funcionais  | 
+RFN- Requisitos não Funcionais | 
+TC - Casos de Testes    |  
+|M-Módulos  | 
+DC-Diagrama de Classes   |
 
 
 # Gerenciamento de Projeto

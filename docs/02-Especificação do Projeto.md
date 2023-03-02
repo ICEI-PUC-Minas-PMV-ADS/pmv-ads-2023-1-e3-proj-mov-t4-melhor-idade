@@ -129,7 +129,7 @@ A matriz de rastreabilidade abaixo contempla todos os elementos relevantes que f
 ![image](https://user-images.githubusercontent.com/100734910/222302756-93298a2d-82d3-4bec-8bba-4c5057111a10.png)
 
 
-#### Referência:
+#### Siglas:
 |Stakeholders - MS-EM-MM-PS-CS | 
 RF-Requisitos Funcionais  | 
 RFN- Requisitos não Funcionais | 

@@ -158,5 +158,5 @@ Figura 12 - Gerenciamento da equipe com a timeline do projeto
 
 ## Gestão de Orçamento
 
-![Orçamento](https://user-images.githubusercontent.com/100447878/222769884-4803aaf7-0e8c-405b-a240-00ffaffe9161.png)
+![Orçamento](https://user-images.githubusercontent.com/100447878/222771347-4a09daac-9702-4b74-85eb-7dfeb35a9339.png)
 Figura 13 - Orçamento do projeto

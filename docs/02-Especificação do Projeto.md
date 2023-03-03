@@ -27,7 +27,6 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Marcos Nogueira Machado  | Lembrete do próximo check-up               | Auxiliar os pacientes e familiares com antecedência sobre o agendamento do próximo check-up.|
 |Pedro José Santos        | Lembrete da prática de exercício físico                  | Lembrar de exercitar diariamente.|
 |Cláudia Brandão de Souza | Acompanhar a distância a saúde de familiares idosos    | Facilitar o acompanhamento à distância da saúde da mãe. |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas. |
 
 ## Modelagem do Processo de Negócio 
 
@@ -137,6 +136,7 @@ TC - Casos de Testes    |
 |M-Módulos  | 
 DC-Diagrama de Classes   |
 
+Figura 10 - Matriz de rastreabilidade
 
 # Gerenciamento de Projeto
 
@@ -148,12 +148,6 @@ O diagrama abaixo nos permite gerenciar o tempo no projeto, a fim de estimar o t
 
 ![Gerenciamento de tempo](https://user-images.githubusercontent.com/81182674/221701137-c7b2b10f-1c6a-4439-aa45-747066329192.png)
 Figura 11 - Diagrama de gerenciamento de tempo do projeto
-
-
-
-O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
-
-![Gráfico de Gantt](img/02-grafico-gantt.png)
 
 ## Gerenciamento de Equipe
 

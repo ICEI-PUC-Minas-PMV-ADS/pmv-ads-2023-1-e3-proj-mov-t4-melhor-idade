@@ -72,16 +72,24 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 ### Ferramentas
 
+Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
+
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- Editor de código: Visual Studio Code
+- Ferramenta de gerenciamento: Github
+- Ferramenta de comunicação: Microsoft Teams
+- Ferramenta de desenho de tela (_wireframing_): Marvel
 
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
+O editor de código, Visual Studio Code, foi escolhido porque ele possui uma integração com o sistema de versão. A ferramenta de gerenciamento do Github foi selecionada pela flexibilidade para criar fluxos de trabalho personalizados que atendam às necessidades da equipe. A ferramenta de comunicação, Microsoft Teams, foi selecionada por ser a mesma utilizada nas reuniões com o professor orientador e product owner do projeto. Por fim, para criar os desenhos de tela, utilizamos a ferramenta Marvel por melhor captar as necessidades da nossa solução.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+<b>Relação de ambientes de trabalho</b>
+<p>Os artefatos do projeto serão desenvolvidos a partir das plataformas listadas abaixo, apresentadas com o seu propósito.<p/>
+
+| AMBIENTE | PLATAFORMA |LINK DE ACESSO                 |
+|--------------------|--------------------------------------------------------------------------------|----------------------------------------|
+|Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/tree/main/docs |
+|Documentos do projeto  | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade |
+|Diagramas | Lucidchart | https://www.lucidchart.com/pages/pt |
+|Projeto de interface e wireframes | MarvelApp | --link-- |
+|Gerenciamento do projeto  | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/225 |

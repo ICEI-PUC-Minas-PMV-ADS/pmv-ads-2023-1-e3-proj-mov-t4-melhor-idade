@@ -48,7 +48,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
 - Scrum Master: Daiane Campos Procópio;
 - Product Owner: Mateus Curcino De Lima;
-- Equipe de Desenvolvimento: Fernanda Augusta de Barcelos Coura, Guilherme Faustini de Azevedo, Juliana Calazans Rodrigues de Magalhães e Rúbia Karina Prado Costa.;
+- Equipe de Desenvolvimento: Fernanda Augusta de Barcelos Coura, Guilherme Faustini de Azevedo, Juliana Calazans Rodrigues de Magalhães e Rúbia Karina Prado Costa.
 
 ### Processo
 

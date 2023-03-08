@@ -72,8 +72,6 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 ### Ferramentas
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
-
 As ferramentas empregadas no projeto são:
 
 - Editor de código: Visual Studio Code

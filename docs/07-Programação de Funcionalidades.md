@@ -6,10 +6,24 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+|ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
+|------|-----------------------------------------|----|
+|RF-001| A aplicação móvel deve permitir ao usuário cadastrar uma conta. |  | 
+|RF-002| A aplicação móvel deve permitir ao usuário cadastrado logar em sua conta. |  | 
+|RF-003| A aplicação móvel deve permitir ao usuário cadastrado gerenciar sua conta.  |  |
+|RF-004| A aplicação móvel deve permitir ao usuário inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando.   |  |
+|RF-005| A aplicação móvel deve permitir ao usuário registrar a quantidade de água que tomou durante o dia. | |
+|RF-006| A aplicação móvel deve permitir ao usuário registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo.    |  |
+|RF-007| A aplicação móvel deve notificar o usuário quando este deve tomar seus medicamentos, tomar água e a data do próximo check-up.   |  |
+|RF-008| A aplicação móvel deve permitir que o usuário compartilhe as informações registradas na aplicação.   |  |
+
+
+# Instruções de acesso
+
+Para ter acesso a aplicação móvel, <a href="">clique aqui</a>.
+
+Para fazer o login no sistema, utilize os dados abaixo:
+
+Email: 
+<br>
+Senha: 

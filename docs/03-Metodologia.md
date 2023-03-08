@@ -60,15 +60,36 @@ Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum 
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub, estruturado com as seguintes listas: 
+
+<ul>
+  <li>Product Backlog: recebe as tarefas a serem trabalhadas e representa o Backlog do produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.</li>
+  <li>To Do: esta lista representa o Sprint Backlog que está sendo trabalhado.</li>
+  <li>In progress: lista das tarefas iniciadas.</li>
+  <li>Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.</li>
+ </ul>
+
+O quadro kanban do grupo no GitHub está disponível no link https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/225 e é apresentado, no estado atual, na figura abaixo:
+
+![Kanban](https://user-images.githubusercontent.com/100447878/223799311-1c1e2aa4-ddd1-48f9-ad20-3a1241ad3d5b.png)
+Figura 3 - Tela do kanban no GitHub utilizada pelo grupo</figcaption>
+
+
+<h3>Etiquetas</h3>
+<p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
+
+<ul>
+  <li>Bug (Erro no código)</li>
+  <li>Documentation (Atualização da documentação)</li>
+  <li>Enhancement (Novo recurso ou aprimoramento)</li>
+  <li>Help wanted (Atenção necessária)</li>
+  <li>Test (Testes)</li>
+</ul>
+
+<figure> 
+  <img src="https://user-images.githubusercontent.com/100447878/189422827-c05db656-719e-41bc-9107-c8d110bab108.png"
+    <figcaption>Figura 4 - Tela do esquema de cores e categorias</figcaption>
+</figure>   
 
 ### Ferramentas
 

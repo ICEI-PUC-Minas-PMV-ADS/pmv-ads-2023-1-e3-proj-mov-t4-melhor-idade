@@ -7,8 +7,15 @@ Esta seção descreve as ferramentas utilizadas pela equipe para a manutenção 
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+Os artefatos do projeto serão desenvolvidos a partir das plataformas listadas abaixo, apresentadas com o seu propósito.
+
+| AMBIENTE | PLATAFORMA |LINK DE ACESSO                 |
+|--------------------|--------------------------------------------------------------------------------|----------------------------------------|
+|Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/tree/main/docs |
+|Documentos do projeto  | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade |
+|Diagramas | Lucidchart | https://www.lucidchart.com/pages/pt |
+|Projeto de interface e wireframes | MarvelApp | --link-- |
+|Gerenciamento do projeto  | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/225 |
 
 ## Controle de Versão
 
@@ -93,14 +100,3 @@ As ferramentas empregadas no projeto são:
 - Ferramenta de desenho de tela (_wireframing_): Marvel
 
 O editor de código, Visual Studio Code, foi escolhido porque ele possui uma integração com o sistema de versão. A ferramenta de gerenciamento do Github foi selecionada pela flexibilidade para criar fluxos de trabalho personalizados que atendam às necessidades da equipe. A ferramenta de comunicação, Microsoft Teams, foi selecionada por ser a mesma utilizada nas reuniões com o professor orientador e product owner do projeto. Por fim, para criar os desenhos de tela, utilizamos a ferramenta Marvel por melhor captar as necessidades da nossa solução.
-
-<b>Relação de ambientes de trabalho</b>
-<p>Os artefatos do projeto serão desenvolvidos a partir das plataformas listadas abaixo, apresentadas com o seu propósito.<p/>
-
-| AMBIENTE | PLATAFORMA |LINK DE ACESSO                 |
-|--------------------|--------------------------------------------------------------------------------|----------------------------------------|
-|Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/tree/main/docs |
-|Documentos do projeto  | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade |
-|Diagramas | Lucidchart | https://www.lucidchart.com/pages/pt |
-|Projeto de interface e wireframes | MarvelApp | --link-- |
-|Gerenciamento do projeto  | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/225 |

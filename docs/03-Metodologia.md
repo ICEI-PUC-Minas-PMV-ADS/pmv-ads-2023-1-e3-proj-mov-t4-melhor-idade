@@ -34,7 +34,7 @@ O projeto utilizará os seguintes nomes de branches:
 - `testing`: versão em testes do software
 - `dev`: versão de desenvolvimento do software
 
-##Etiquetas
+## Etiquetas
 
 As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
 

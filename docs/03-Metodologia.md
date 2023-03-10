@@ -51,7 +51,7 @@ Figura 15 - Tela do esquema de cores e categorias
 
 ## Gerenciamento de Projeto
 
-### Divisão de Papéis]
+### Divisão de Papéis
 
 A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
 

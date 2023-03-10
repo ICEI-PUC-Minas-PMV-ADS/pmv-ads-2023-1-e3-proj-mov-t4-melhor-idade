@@ -51,9 +51,13 @@ Figura 15 - Tela do esquema de cores e categorias
 
 ## Gerenciamento de Projeto
 
-### Divisão de Papéis
+### Divisão de Papéis]
 
-A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
+A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
+
+“visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
+
+A equipe está organizada da seguinte maneira:
 - Scrum Master: Daiane Campos Procópio;
 - Product Owner: Mateus Curcino De Lima;
 - Equipe de Desenvolvimento: Fernanda Augusta de Barcelos Coura, Guilherme Faustini de Azevedo, Juliana Calazans Rodrigues de Magalhães e Rúbia Karina Prado Costa.

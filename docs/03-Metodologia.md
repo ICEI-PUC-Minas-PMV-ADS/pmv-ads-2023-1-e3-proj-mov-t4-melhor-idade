@@ -19,9 +19,14 @@ Os artefatos do projeto serão desenvolvidos a partir das plataformas listadas a
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+A ferramenta de controle de versão adotada no projeto foi o Git, sendo que o Github foi utilizado para hospedagem do repositório.
+
+Para a gestão do código fonte da aplicação que está sendo desenvolvida pela equipe será utilizado um processo baseado no Gitflow, mostrado na figura abaixo, que permite que a equipe trabalhe com correções de problemas ou atualizações sem a interrupção do trabalho em andamento (ATLASSIAN BITBUCKET, [<i>s. d.</i>]).
+
+<figure>
+  <img src="https://user-images.githubusercontent.com/100447878/164069517-f747ce40-3bef-4ac5-9585-9d6259848bb4.png"
+  <figcaption>Figura 2 - Fluxo de controle do código fonte no repositório Git</figcaption>
+<figure>
 
 O projeto segue a seguinte convenção para o nome de branches:
 

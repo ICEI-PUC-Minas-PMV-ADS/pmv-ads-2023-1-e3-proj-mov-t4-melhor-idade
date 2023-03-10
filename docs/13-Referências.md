@@ -1,5 +1,7 @@
 # Referências
 
+AMARAL, Vanessa de Araújo; OLIVEIRA, Angela Maria Fleury de; ISONI, Taciana Maria. Inovação social e metodologias ágeis: uma história de sucesso. <b>DOM</b>: a revista da Fundação Dom Cabral, Nova Lima, v. 12, n. 38, p. 66-71, maio/ago. 2019.
+
 ATLASSIAN BITBUCKET. <b>Fluxo de trabalho de Gitflow</b>. <i>[s. d.]</i>. Disponível em: https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow. Acesso em: 10 mar. 2023.
 
 MARTINGO, Neide. Maioria dos idosos com acesso à internet usa celular para checar diariamente redes sociais. <b>Valor Investe</b>, 25 set. 2022. Disponível em: https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2022/09/25/maioria-dos-idosos-com-acesso-a-internet-usa-celular-para-checar-diariamente-redes-sociais.ghtml. Acesso em: 22 fev. 2023.

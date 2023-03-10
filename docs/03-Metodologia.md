@@ -25,33 +25,29 @@ Para a gestão do código fonte será utilizado um processo baseado no Gitflow, 
 
 ![Gitflow](https://user-images.githubusercontent.com/100447878/224438616-057b263d-cb67-4f75-bacd-339024012816.png)
 
-Figura 14 - Fluxo de controle do código fonte no repositório Git</figcaption>
+Figura 14 - Fluxo de controle do código fonte com Git
 
-
-O projeto segue a seguinte convenção para o nome de branches:
+O projeto utilizará os seguintes nomes de branches:
 
 - `main`: versão estável já testada do software
 - `unstable`: versão já testada do software, porém instável
 - `testing`: versão em testes do software
 - `dev`: versão de desenvolvimento do software
 
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
+##Etiquetas
 
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
+As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
+- Bug: Erro no código
+- Documentation: Atualização da documentação
+- Enhancement: novo recurso ou aprimoramento
+- Help wanted: atenção necessária
+- Test: testes
 
-> **Links Úteis**:
-> - [Microfundamento: Gerência de Configuração](https://pucminas.instructure.com/courses/87878/)
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+![Issues](https://user-images.githubusercontent.com/100447878/224440373-d6259dd0-2a90-47fe-b126-29a1a3e7af6e.png)
+
+Figura 15 - Tela do esquema de cores e categorias
+
 
 ## Gerenciamento de Projeto
 
@@ -78,22 +74,6 @@ O quadro kanban do grupo no GitHub está disponível no link https://github.com/
 ![Kanban](https://user-images.githubusercontent.com/100447878/223799311-1c1e2aa4-ddd1-48f9-ad20-3a1241ad3d5b.png)
 Figura 14 - Tela do kanban no GitHub utilizada pelo grupo</figcaption>
 
-
-<h3>Etiquetas</h3>
-<p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
-
-<ul>
-  <li>Bug (Erro no código)</li>
-  <li>Documentation (Atualização da documentação)</li>
-  <li>Enhancement (Novo recurso ou aprimoramento)</li>
-  <li>Help wanted (Atenção necessária)</li>
-  <li>Test (Testes)</li>
-</ul>
-
-<figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/189422827-c05db656-719e-41bc-9107-c8d110bab108.png"
-    <figcaption>Figura 4 - Tela do esquema de cores e categorias</figcaption>
-</figure>   
 
 ### Ferramentas
 

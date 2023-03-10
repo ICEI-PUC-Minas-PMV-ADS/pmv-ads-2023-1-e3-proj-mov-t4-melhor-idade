@@ -25,14 +25,16 @@ Para a gestão do código fonte será utilizado um processo baseado no Gitflow, 
 
 ![Gitflow](https://user-images.githubusercontent.com/100447878/224438616-057b263d-cb67-4f75-bacd-339024012816.png)
 
+Fonte: ATLASSIAN BITBUCKET, [<i>s. d.</i>]
+
 Figura 14 - Fluxo de controle do código fonte com Git
 
 O projeto utilizará os seguintes nomes de branches:
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+- Main: versão estável já testada do software
+- Hotfix: ramificação para manutenção e correções
+- Develop: ramificação de integração para recursos
+- Feature: novo recurso do software
 
 ## Etiquetas
 

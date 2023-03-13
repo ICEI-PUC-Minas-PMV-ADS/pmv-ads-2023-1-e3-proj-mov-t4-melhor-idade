@@ -54,15 +54,35 @@ Explique como a hospedagem e o lançamento da plataforma foi feita.
 
 ## Qualidade de Software
 
+![Beige Minimalist Timeline Diagram Graph (1)](https://user-images.githubusercontent.com/100734910/224740162-b1e98ace-0fb5-46f1-af7a-52edf3474eea.png)
+
+
+### Subcaracterísticas:
+> - Completude funcional: O software efetivamente possibilita executar as funções que são apropriadas.<br>
+> - Funcionalidade apropriada: Indica qual o grau em que as funções do sistema facilitam a realização de tarefas e objetivos para os quais o sistema foi especificado.<br>
+> - Comportamento em relação ao tempo: Mede o tempo que o software leva para processar suas funções.<br>
+> - Coexistência: Avalia o grau no qual o produto pode desempenhar as funções requeridas eficientemente enquanto compartilha ambiente e recursos comuns com outros produtos sem impacto negativo nos outros produtos. <br>
+> - Inteligibilidade: Tem relação com o grau de facilidade que um usuário tem em entender os conceitos chave do software e assim tornar-se competente no seu uso.<br>
+> - Apropriação reconhecível: Mede o grau em que os usuários reconhecem que o produto é apropriado para suas necessidades. <br>
+> - Estética de interface com usuário: Avalia o grau em que a interface com o usuário proporciona prazer e uma interação satisfatória. <br>
+> - Maturidade: Medida da freqüência com que um software apresenta defeitos. <br>
+> - Integridade: Avalia o grau em que os dados e funções do sistema são protegidos contra acesso por pessoas ou sistemas não autorizados. <br>
+> - Confidencialidade: Avalia o grau em que as informações e funções do sistema estejam acessíveis por quem tenha a devida autorização para isso. <br>
+> - Analisabilidade: Quando permite encontrar defeitos (depurar) facilmente quando erros ou falhas ocorrem.
+> - Instalabilidade: Avalia a facilidade de se instalar o software.
+
+
+
+
+
+
+
+
+
 Conceituar qualidade de fato é uma tarefa complexa, mas ela pode ser vista como um método gerencial que através de procedimentos disseminados por toda a organização, busca garantir um produto final que satisfaça às expectativas dos stakeholders.
 
 No contexto de desenvolvimento de software, qualidade pode ser entendida como um conjunto de características a serem satisfeitas, de modo que o produto de software atenda às necessidades de seus usuários. Entretanto, tal nível de satisfação nem sempre é alcançado de forma espontânea, devendo ser continuamente construído. Assim, a qualidade do produto depende fortemente do seu respectivo processo de desenvolvimento.
 
-A norma internacional ISO/IEC 25010, que é uma atualização da ISO/IEC 9126, define oito características e 30 subcaracterísticas de qualidade para produtos de software.
-Com base nessas características e nas respectivas sub-características, identifique as sub-características que sua equipe utilizará como base para nortear o desenvolvimento do projeto de software considerando-se alguns aspectos simples de qualidade. Justifique as subcaracterísticas escolhidas pelo time e elenque as métricas que permitirão a equipe avaliar os objetos de interesse.
+Justifique as subcaracterísticas escolhidas pelo time e elenque as métricas que permitirão a equipe avaliar os objetos de interesse.
 
-> **Links Úteis**:
->
-> - [ISO/IEC 25010:2011 - Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — System and software quality models](https://www.iso.org/standard/35733.html/)
-> - [Análise sobre a ISO 9126 – NBR 13596](https://www.tiespecialistas.com.br/analise-sobre-iso-9126-nbr-13596/)
-> - [Qualidade de Software - Engenharia de Software 29](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209/)
+

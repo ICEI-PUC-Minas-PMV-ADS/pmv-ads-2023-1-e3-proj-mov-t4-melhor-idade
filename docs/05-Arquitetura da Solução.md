@@ -72,6 +72,7 @@ Explique como a hospedagem e o lançamento da plataforma foi feita.
 > - Instalabilidade: Avalia a facilidade de se instalar o software.
 
 
+![Beige Minimalist Timeline Diagram Graph (4)](https://user-images.githubusercontent.com/100734910/224809289-adff9b14-4099-4710-9f6b-37d01447f7be.png)
 
 
 
@@ -79,10 +80,7 @@ Explique como a hospedagem e o lançamento da plataforma foi feita.
 
 
 
-Conceituar qualidade de fato é uma tarefa complexa, mas ela pode ser vista como um método gerencial que através de procedimentos disseminados por toda a organização, busca garantir um produto final que satisfaça às expectativas dos stakeholders.
 
-No contexto de desenvolvimento de software, qualidade pode ser entendida como um conjunto de características a serem satisfeitas, de modo que o produto de software atenda às necessidades de seus usuários. Entretanto, tal nível de satisfação nem sempre é alcançado de forma espontânea, devendo ser continuamente construído. Assim, a qualidade do produto depende fortemente do seu respectivo processo de desenvolvimento.
 
-Justifique as subcaracterísticas escolhidas pelo time e elenque as métricas que permitirão a equipe avaliar os objetos de interesse.
 
 

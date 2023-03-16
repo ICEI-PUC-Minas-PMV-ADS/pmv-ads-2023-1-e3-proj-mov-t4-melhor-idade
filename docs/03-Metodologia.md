@@ -37,7 +37,7 @@ O projeto utilizará os seguintes nomes de branches:
 
 ## Etiquetas
 
-As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
+As tarefas (issues) são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
 
 - Bug: Erro no código
 - Documentation: Atualização da documentação

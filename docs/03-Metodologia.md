@@ -13,7 +13,6 @@ Os artefatos do projeto serão desenvolvidos a partir das plataformas listadas a
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
 |Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/tree/main/docs |
 |Documentos do projeto  | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade |
-|Diagramas | Lucidchart | https://www.lucidchart.com/pages/pt |
 |Projeto de interface e wireframes | Marvel | https://marvelapp.com/prototype/be1gjb1/screen/90938491 |
 |Gerenciamento do projeto  | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/225 |
 

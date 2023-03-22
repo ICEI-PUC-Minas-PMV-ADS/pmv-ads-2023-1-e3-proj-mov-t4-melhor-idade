@@ -1,4 +1,52 @@
 # Plano de Testes de Usabilidade
+![image](https://user-images.githubusercontent.com/100734910/227028536-4f733c96-24ea-4520-93be-43dbf4c84103.png)
+
+## Objetivo Principal
+
+|ID    | Objetivo | 
+|------|-----------------------------------------|
+|RF-001| Entender os principais atritos quando os usuários tentam cadastrar uma conta. |
+|RF-002| Entender os principais atritos quando os usuários tentam logar em sua conta. |
+|RF-003| Entender os principais atritos quando os usuários querem gerenciar sua conta. |
+|RF-004| Eficiência dos usuários em inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando. |
+|RF-005| Eficiência dos usuários em registrar a quantidade de água que tomou durante o dia. |
+|RF-006| Eficiência dos usuários em registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo.  |
+|RF-006| Nível de satisfação em utilizar a aplicação móvel.  |
+
+### Perfil para testes:
+
+Para o ciclo de testes definimos como prioridade o perfil: Mulheres, homens, idosos, adultos e profissionais da saúde. 
+
+### Modelo de teste:
+
+* Qualitativo.  <br>
+* Ambiente Remoto. <br>
+* Teste não moderado. <br>
+
+### Equipamento e Software necessário:
+
+* Smartphone;
+* Conexão com a Internet;
+* Forneceremos acesso ao ambiente de demonstração.
+
+### Métricas de avaliação:
+
+* Produtividade.
+* Segurança.
+* Efetividade.
+* Satisfação.
+
+### Forma de Registro:
+
+
+
+
+
+
+
+
+
+
 
 O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
 

@@ -1,7 +1,10 @@
 # Plano de Testes de Usabilidade
 ![image](https://user-images.githubusercontent.com/100734910/227314741-1b62b06a-0929-4cf9-a8e3-47364c4bc894.png)
 
-## Objetivo Principal
+
+## Planejamento
+
+### Objetivo Principal
 
 |ID    | Objetivo | 
 |------|-----------------------------------------|
@@ -41,12 +44,26 @@ Para o ciclo de testes definimos como prioridade o perfil: Mulheres, homens, ido
 O usuário utilizara o protótipo da aplicação móvel com instruções de testes objetivos para se realizar na tela.  Após finalizar as tarefas designadas, estará disponível o formulário com perguntas e respostas sobre a sua opinião e satisfação da aplicação Melhor Idade.
 
 
-## Termo de Consentimento
+## Alinhamento
+
+### Termo de Consentimento
 
 Clique <a href="https://sgapucminasbr-my.sharepoint.com/:w:/g/personal/1382262_sga_pucminas_br/EQd5QlLdkR1AmOhUklwh2dABA87qtn2KEaswhYTP4d6nAQ?e=3OKrwm">aqui</a> para assinar o termo de consentimento.
 
 
+## Aplicação
 
+### Ambiente do Teste
+
+### Registro
+
+Formulário ()
+
+## Conclusão 
+
+### Resultados 
+
+### Planilha de Métricas 
 
 
 

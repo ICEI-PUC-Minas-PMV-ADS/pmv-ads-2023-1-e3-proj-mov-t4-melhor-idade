@@ -1,5 +1,5 @@
 # Plano de Testes de Usabilidade
-![image](https://user-images.githubusercontent.com/100734910/227028536-4f733c96-24ea-4520-93be-43dbf4c84103.png)
+![image](https://user-images.githubusercontent.com/100734910/227314741-1b62b06a-0929-4cf9-a8e3-47364c4bc894.png)
 
 ## Objetivo Principal
 
@@ -23,7 +23,7 @@ Para o ciclo de testes definimos como prioridade o perfil: Mulheres, homens, ido
 * Ambiente Remoto. <br>
 * Teste não moderado. <br>
 
-### Equipamento e Software necessário:
+### Hardware e Software necessário:
 
 * Smartphone;
 * Conexão com a Internet;
@@ -37,6 +37,8 @@ Para o ciclo de testes definimos como prioridade o perfil: Mulheres, homens, ido
 * Satisfação.
 
 ### Forma de Registro:
+
+O usuário utilizara o protótipo da aplicação móvel com instruções de testes objetivos para se realizar na tela.  Após finalizar as tarefas designadas, estará disponível o formulário com perguntas e respostas sobre a sua opinião e satisfação da aplicação Melhor Idade.
 
 
 

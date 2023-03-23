@@ -35,7 +35,6 @@ Para o ciclo de testes definimos como prioridade o perfil: Mulheres, homens, ido
 ### Métricas de avaliação:
 
 * Produtividade.
-* Segurança.
 * Efetividade.
 * Satisfação.
 

@@ -46,24 +46,21 @@ O usuário utilizara o protótipo da aplicação móvel com instruções de test
 
 ## Alinhamento
 
-### Termo de Consentimento
+### Termo de Consentimento:
 
 Clique <a href="https://sgapucminasbr-my.sharepoint.com/:w:/g/personal/1382262_sga_pucminas_br/EQd5QlLdkR1AmOhUklwh2dABA87qtn2KEaswhYTP4d6nAQ?e=3OKrwm">aqui</a> para assinar o termo de consentimento.
 
 
 ## Aplicação
 
-### Ambiente do Teste
+Disponível em <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/blob/main/docs/11-Registro%20de%20Testes%20de%20Usabilidade.md">  Registro de Teste de Usabilidade</a>
 
-### Registro
 
-Formulário ()
+## Conclusão
 
-## Conclusão 
+Disponível em <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/blob/main/docs/11-Registro%20de%20Testes%20de%20Usabilidade.md"> Registro de Teste de Usabilidade</a>
 
-### Resultados 
 
-### Planilha de Métricas 
 
 
 

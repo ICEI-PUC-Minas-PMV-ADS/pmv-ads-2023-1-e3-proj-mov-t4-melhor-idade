@@ -64,6 +64,8 @@ Figura xx - Interação do usuário com o sistema
 > - Instalabilidade: Avalia a facilidade de se instalar o software.
 
 
+### Métricas
+
 ![Beige Minimalist Timeline Diagram Graph (4)](https://user-images.githubusercontent.com/100734910/224809289-adff9b14-4099-4710-9f6b-37d01447f7be.png)
 
 

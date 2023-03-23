@@ -38,6 +38,17 @@ Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, 
 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
+As tecnologias listadas abaixo serão utilizadas para a implementação da solução.
+
+Expo Dev - ferramenta de desenvolvimento
+React
+React native
+Database MSSQL
+JSON - servidor local
+JavaScript XML (JSX) - linguagem
+
+![Interacao](https://user-images.githubusercontent.com/100447878/227193733-c98bb22a-0916-4cce-b06c-5e0e3e3a8e1a.gif)
+
 ## Qualidade de Software
 
 ![Beige Minimalist Timeline Diagram Graph (1)](https://user-images.githubusercontent.com/100734910/224740162-b1e98ace-0fb5-46f1-af7a-52edf3474eea.png)

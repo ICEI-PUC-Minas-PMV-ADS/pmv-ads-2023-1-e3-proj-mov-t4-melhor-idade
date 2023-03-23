@@ -66,7 +66,7 @@ Figura xx - Interação do usuário com o sistema
 
 ## Métricas
 
-![Beige Minimalist Timeline Diagram Graph (4)](https://user-images.githubusercontent.com/100734910/224809289-adff9b14-4099-4710-9f6b-37d01447f7be.png)
+![image](https://user-images.githubusercontent.com/100734910/227335601-7396da59-8913-4d50-9d8f-d97cb93a8008.png)
 
 
 

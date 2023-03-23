@@ -12,7 +12,11 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 O diagrama abaixo apresenta o estudo do fluxo de interação do usuário com o sistema interativo.
 
 
-![Diagrama sem nome drawio (1)](https://user-images.githubusercontent.com/81182674/224861893-42d3d1c8-7500-4181-94e8-86c8a7c9ceb2.png)
+
+![DiagramaMelhorIdade2 drawio (1)](https://user-images.githubusercontent.com/81182674/227362093-3414bbbc-ace0-4d12-a6ab-ed2f9bc2b863.png)
+
+
+
 
 
 

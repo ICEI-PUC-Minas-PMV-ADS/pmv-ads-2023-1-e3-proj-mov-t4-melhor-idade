@@ -40,12 +40,11 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 As tecnologias listadas abaixo serão utilizadas para a implementação da solução.
 
-Expo Dev - ferramenta de desenvolvimento
-React
-React native
-Database MSSQL
-JSON - servidor local
-JavaScript XML (JSX) - linguagem
+* Expo Dev
+* React
+* React native
+* JSON
+* JavaScript XML (JSX)
 
 ![Interacao](https://user-images.githubusercontent.com/100447878/227193733-c98bb22a-0916-4cce-b06c-5e0e3e3a8e1a.gif)
 

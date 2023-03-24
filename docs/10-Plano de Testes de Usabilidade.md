@@ -8,13 +8,13 @@
 
 |ID    | Objetivo | 
 |------|-----------------------------------------|
-|RF-001| Entender os principais atritos quando os usuários tentam cadastrar uma conta. |
-|RF-002| Entender os principais atritos quando os usuários tentam logar em sua conta. |
-|RF-003| Entender os principais atritos quando os usuários querem gerenciar sua conta. |
-|RF-004| Eficiência dos usuários em inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando. |
-|RF-005| Eficiência dos usuários em registrar a quantidade de água que tomou durante o dia. |
-|RF-006| Eficiência dos usuários em registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo.  |
-|RF-006| Nível de satisfação em utilizar a aplicação móvel.  |
+|01| Entender os principais atritos quando os usuários tentam cadastrar uma conta. |
+|02| Entender os principais atritos quando os usuários tentam logar em sua conta. |
+|03| Entender os principais atritos quando os usuários querem gerenciar sua conta. |
+|04| Eficiência dos usuários em inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando. |
+|05| Eficiência dos usuários em registrar a quantidade de água que tomou durante o dia. |
+|06| Eficiência dos usuários em registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo.  |
+
 
 ### Perfil para testes:
 

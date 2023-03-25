@@ -17,6 +17,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 ![Modelo ER Melhor Idade](https://user-images.githubusercontent.com/100742971/227052688-3439c463-239c-483c-bc1c-966eb24cd75e.png)
 
+Figura xx - Modelo entidade relacionamento
 
 ## Esquema Relacional
 
@@ -48,6 +49,7 @@ Figura xx - Interação do usuário com o sistema
 
 ![Beige Minimalist Timeline Diagram Graph (1)](https://user-images.githubusercontent.com/100734910/224740162-b1e98ace-0fb5-46f1-af7a-52edf3474eea.png)
 
+Figura xx - Qualidade de software
 
 ### Subcaracterísticas:
 > - Completude funcional: O software efetivamente possibilita executar as funções que são apropriadas.<br>
@@ -68,8 +70,7 @@ Figura xx - Interação do usuário com o sistema
 
 ![image](https://user-images.githubusercontent.com/100734910/227335601-7396da59-8913-4d50-9d8f-d97cb93a8008.png)
 
-
-
+Figura xx - Métricas de software
 
 
 

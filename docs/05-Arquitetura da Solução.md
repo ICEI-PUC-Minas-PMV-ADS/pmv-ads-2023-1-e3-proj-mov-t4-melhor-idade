@@ -22,7 +22,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
 
-![Projeto de BD](https://user-images.githubusercontent.com/100447878/227192264-a88cdd44-987c-425e-bb4f-d2017345cfcc.png)
+![Projeto de BD](https://user-images.githubusercontent.com/100447878/227714003-b35e1967-6eb9-4d81-a289-dee35f5c188f.png)
 
 Figura xx - Esquema relacional com as restrições de integridade
 
@@ -36,7 +36,7 @@ As tecnologias listadas abaixo serão utilizadas para a implementação da solu�
 
 * Expo Dev
 * React
-* React native
+* React Native
 * JSON
 * JavaScript XML (JSX)
 

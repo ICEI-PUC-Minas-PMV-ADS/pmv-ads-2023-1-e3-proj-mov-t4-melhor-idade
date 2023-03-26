@@ -26,9 +26,9 @@ Apresentamos abaixo o protótipo usado para demonstrar a estrutura da aplicaçã
 
 
 
-### Tela de acesso
+### Tela de Acesso
 
- A tela de acesso, apresenta 2 botões, sendo um de "Cadastre-se" e outro de "Entrar".
+ A tela de Acesso, apresenta 2 botões, sendo um de "Cadastre-se" e outro de "Entrar".
  
 ![image](https://user-images.githubusercontent.com/81182674/227803713-a87a8d0f-1c8a-4953-a2bf-f79c4c895595.png)
 

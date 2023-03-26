@@ -12,8 +12,7 @@ O objetivo deste projeto é a criação de uma aplicação móvel de fácil aces
 
 Como objetivos específicos, podemos destacar:
 
- - Auxiliar este público através de funcionalidades que permitam registrar informações sobre a sua saúde física e mental;
- - Lembrá-los dos horários para tomarem seus medicamentos, se hidratarem, se exercitarem, e do próximo check-up médico;
+ - Auxiliar este público através de funcionalidades que permitam registrar informações sobre a sua saúde física;
  - Compartilhar as informações registradas pelos usuários com parentes e/ou com médicos.
 
 ## Justificativa

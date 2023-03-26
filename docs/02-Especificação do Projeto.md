@@ -91,7 +91,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel. | ALTA | 
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivo móvel. | ALTA | 
 
 #### Técnica de priorização de requisitos
 

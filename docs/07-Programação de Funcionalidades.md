@@ -14,7 +14,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 |RF-004| A aplicação móvel deve permitir ao usuário inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando.   |  |
 |RF-005| A aplicação móvel deve permitir ao usuário registrar a quantidade de água que tomou durante o dia. | |
 |RF-006| A aplicação móvel deve permitir ao usuário registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo.    |  |
-|RF-007| A aplicação móvel deve notificar o usuário quando este deve tomar seus medicamentos, tomar água e a data do próximo check-up.   |  |
+|RF-007| A aplicação móvel deve permitir ao usuário registrar a data do último check-up e a data aproximada do próximo.   |  |
 |RF-008| A aplicação móvel deve permitir que o usuário compartilhe as informações registradas na aplicação.   |  |
 
 

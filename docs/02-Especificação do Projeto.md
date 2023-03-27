@@ -84,7 +84,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| A aplicação móvel deve permitir ao usuário inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando.   | MÉDIA |
 |RF-005| A aplicação móvel deve permitir ao usuário registrar a quantidade de água que tomou durante o dia.   | BAIXA |
 |RF-006| A aplicação móvel deve permitir ao usuário registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo.   | MÉDIA |
-|RF-007| A aplicação móvel deve permitir ao usuário registar data do último check-up e a data aproximada do próximo.   | MÉDIA |
+|RF-007| A aplicação móvel deve permitir ao usuário registar a data do último check-up e a data aproximada do próximo.   | MÉDIA |
 |RF-008| A aplicação móvel deve permitir que o usuário compartilhe as informações registradas na aplicação.   | ALTA |
 
 ### Requisitos não Funcionais

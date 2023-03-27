@@ -17,7 +17,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 ![Modelo ER Melhor Idade](https://user-images.githubusercontent.com/100742971/227052688-3439c463-239c-483c-bc1c-966eb24cd75e.png)
 
-Figura xx - Modelo entidade relacionamento
+Figura 28 - Modelo entidade relacionamento
 
 ## Esquema Relacional
 
@@ -25,7 +25,7 @@ O Esquema Relacional corresponde à representação dos dados em tabelas juntame
 
 ![Projeto de BD](https://user-images.githubusercontent.com/100447878/227714003-b35e1967-6eb9-4d81-a289-dee35f5c188f.png)
 
-Figura xx - Esquema relacional com as restrições de integridade
+Figura 29 - Esquema relacional com as restrições de integridade
 
 ## Modelo Físico
 
@@ -43,13 +43,13 @@ As tecnologias listadas abaixo serão utilizadas para a implementação da solu�
 
 ![Interacao](https://user-images.githubusercontent.com/100447878/227193733-c98bb22a-0916-4cce-b06c-5e0e3e3a8e1a.gif)
 
-Figura xx - Interação do usuário com o sistema
+Figura 30 - Interação do usuário com o sistema
 
 ## Qualidade de Software
 
 ![Beige Minimalist Timeline Diagram Graph (1)](https://user-images.githubusercontent.com/100734910/224740162-b1e98ace-0fb5-46f1-af7a-52edf3474eea.png)
 
-Figura xx - Qualidade de software
+Figura 31 - Qualidade de software
 
 ### Subcaracterísticas:
 > - Completude funcional: O software efetivamente possibilita executar as funções que são apropriadas.<br>
@@ -70,12 +70,4 @@ Figura xx - Qualidade de software
 
 ![image](https://user-images.githubusercontent.com/100734910/227335601-7396da59-8913-4d50-9d8f-d97cb93a8008.png)
 
-Figura xx - Métricas de software
-
-
-
-
-
-
-
-
+Figura 32 - Métricas de software

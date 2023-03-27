@@ -26,7 +26,7 @@ Apresentamos abaixo os cenários de testes elaborados para a realização dos te
 | **Caso de Teste** 	| **CT-04 – Registro de medicamentos** 	|
 |	Requisito Associado 	| RF-004 - A aplicação móvel deve permitir ao usuário inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando.  |
 | Objetivo do Teste 	| Verificar se o usuário consegue inserir os dados dos medicamentos que está tomando. |
-| Passos 	| - Acessar o aplicativo móvel <br> - Efetuar o login na tela inicial <br> - Acessar “Remédios/Medicamentos” <br> - Preencher os campos obrigatórios <br> - Salvar os dados em “Salvar” |
+| Passos 	| - Acessar o aplicativo móvel <br> - Efetuar o login na tela inicial <br> - Acessar “Medicamentos” <br> - Preencher os campos obrigatórios <br> - Salvar os dados em “Salvar” |
 |Critério de Êxito | - O registro do(s) medicamento(s) foi realizado com sucesso.  |
 |  	|  	|
 | **Caso de Teste** 	| **CT-05 – Registro de consumo de água** 	|
@@ -38,18 +38,18 @@ Apresentamos abaixo os cenários de testes elaborados para a realização dos te
 | **Caso de Teste** 	| **CT-06 – Registro de atividades físicas** 	|
 |	Requisito Associado 	| RF-006 - A aplicação móvel deve permitir ao usuário registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo. |
 | Objetivo do Teste 	| Verificar se o usuário consegue registrar diariamente suas atividades físicas e tempo das atividades físicas.  |
-| Passos 	| - Acessar o aplicativo móvel <br> - Efetuar o login na tela inicial <br> - Acessar “Exercícios” <br> - Preencher os campos obrigatórios <br> - Salvar os dados em “Salvar” |
+| Passos 	| - Acessar o aplicativo móvel <br> - Efetuar o login na tela inicial <br> - Acessar “Atividade Física” <br> - Preencher os campos obrigatórios <br> - Salvar os dados em “Salvar” |
 |Critério de Êxito | - O registro da(s) atividade(s) física(s) foi realizado com sucesso.   |
 |  	|  	|
-| **Caso de Teste** 	| **CT-07 – Notificações** 	|
-|	Requisito Associado 	| RF-007 - A aplicação móvel deve notificar o usuário quando este deve tomar seus medicamentos, tomar água e a data do próximo check-up. |
-| Objetivo do Teste 	| Verificar se o usuário recebe as notificações corretamente. |
-| Passos 	| **1ª forma:** <br> - O usuário ter efetuado o login  <br> **2ª forma:** <br> - Efetuar o login na tela inicial <br> - Acessar “notificações” <br> |
-|Critério de Êxito |  **1ª forma:** <br> - O usuário irá receber automaticamente as notificações do aplicativo referente a medicamentos, água e check-up. <br> **2ª forma:** <br> - O usuário ao acessar notificações, irá aparecer todas as notificações recebidas no aplicativo referente a medicamentos, água e check-up. <br>   |
+| **Caso de Teste** 	| **CT-07 – Check-up** 	|
+|	Requisito Associado 	| RF-007 - A aplicação móvel deve permitir ao usuário registrar a data do último check-up e a data aproximada do próximo. |
+| Objetivo do Teste 	| Verificar se o usuário consegue registrar seu check-up. |
+| Passos 	|  - Efetuar o login na tela inicial <br> - Acessar “check-up” <br> - Preencher os campos obrigatórios <br> - Salvar os dados em “Salvar”|
+|Critério de Êxito |  - O registro de check-up foi realizado com sucesso. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-08 – Compartilhar informações** 	|
 |	Requisito Associado 	| RF-008 - A aplicação móvel deve permitir que o usuário compartilhe as informações registradas na aplicação. |
 | Objetivo do Teste 	| Verificar se o usuário consegue compartilhar informações registradas no aplicativo.  |
-| Passos 	| **De usuário para usuário:** <br> - Efetuar o login na tela inicial <br> - Acessar “Perfil” <br> - Clicar em “Compartilhar informações” <br> - Selecionar um usuário que deseja receber as informações <br> - Clicar em “Compartilhar” <br> **Por e-mail** <br> - Efetuar o login na tela inicial <br> - Acessar “Perfil” <br> - Clicar em “Compartilhar informações” <br> - Clicar em "E-mail" <br> - Preencher o e-mail <br> - Clicar em “Compartilhar”  |
+| Passos 	| **Relatório geral:** <br> - Efetuar o login na tela inicial <br> - Acessar “Perfil” <br> - Clicar no ícone de compartilhar <br> - Selecionar a forma de compartilhamento <br> **Relatório individual** <br> - Efetuar o login na tela inicial <br> - Acessar qual relatório deseja compartilhar (Consumo de água, atividades físicas ou check-up) <br> - Na parte de relatórios , clicar no ícone de compartilhar <br> - Selecionar a forma de compartilhamento  |
 |Critério de Êxito | - Perfil compartilhado com sucesso.   |
 |  	|  	|

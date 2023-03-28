@@ -116,7 +116,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 O diagrama contempla as principais ligações previstas entre casos de uso e atores, detalhando os Requisitos Funcionais da aplicação interativa.
 
-![melhor idade](https://user-images.githubusercontent.com/100734910/222785833-e58b9bb8-5177-4f8d-a13b-68e66e937c68.png)
+![image](https://user-images.githubusercontent.com/100734910/228106384-d23ff522-9f08-4c46-a06a-4adc3792fbd1.png)
 
 
 

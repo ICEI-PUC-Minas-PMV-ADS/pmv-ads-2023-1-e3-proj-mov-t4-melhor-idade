@@ -14,7 +14,8 @@
 |04| Eficiência dos usuários em inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando. |
 |05| Eficiência dos usuários em registrar a quantidade de água que tomou durante o dia. |
 |06| Eficiência dos usuários em registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo.  |
-
+|07| Eficiência dos usuários em registrar o próximo check-up.  |
+|08| Eficiência dos usuários em compartilhar informaçoes do perfil e check-up |
 
 ### Perfil para testes:
 

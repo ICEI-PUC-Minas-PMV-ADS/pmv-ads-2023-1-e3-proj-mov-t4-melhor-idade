@@ -10,6 +10,7 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 ![image](https://user-images.githubusercontent.com/100734910/228102955-e1fd810d-a63d-4db2-b739-bde3e7b891fc.png)
 
+Figura 27 - Diagrama de classes
 
 ## Modelo ER
 

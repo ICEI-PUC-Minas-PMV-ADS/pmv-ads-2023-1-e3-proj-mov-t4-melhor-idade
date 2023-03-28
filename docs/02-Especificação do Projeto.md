@@ -127,7 +127,7 @@ Figura 9 - Diagrama de casos de uso
 
 A matriz de rastreabilidade abaixo contempla todos os elementos relevantes que fazem parte do sistema de software.
 
-![image](https://user-images.githubusercontent.com/100734910/228105664-cba02337-4e99-413d-9dd2-425828e0d53e.png)
+![image](https://user-images.githubusercontent.com/100734910/222302756-93298a2d-82d3-4bec-8bba-4c5057111a10.png)
 
 
 #### Siglas:

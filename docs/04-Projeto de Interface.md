@@ -15,7 +15,7 @@ O diagrama abaixo apresenta o estudo do fluxo de interação do usuário com o s
 
 ![DiagramaSemNotificações drawio](https://user-images.githubusercontent.com/81182674/227804481-9d4b33ca-aab2-4ab9-8c61-c2f1b29789c3.png)
 
-
+Figura 17 - Diagrama de fluxo
 
 
 

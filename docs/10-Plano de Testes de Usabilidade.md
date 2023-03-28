@@ -15,7 +15,7 @@
 |05| Eficiência dos usuários em registrar a quantidade de água que tomou durante o dia. |
 |06| Eficiência dos usuários em registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo.  |
 |07| Eficiência dos usuários em registrar o próximo check-up.  |
-|08| Eficiência dos usuários em compartilhar informaçoes do perfil e check-up |
+|08| Eficiência dos usuários em compartilhar informações do perfil e check-up |
 
 ### Perfil para testes:
 
@@ -57,7 +57,7 @@ Clique <a href="https://sgapucminasbr-my.sharepoint.com/:w:/g/personal/1382262_s
 
 Aplicativo Melhor Idade. 
 
-### Registro :
+### Registro:
 
 Formulário (https://lue4qkj7yaw.typeform.com/to/ld7TVXs2)
 

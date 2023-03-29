@@ -24,6 +24,6 @@ Para ter acesso a aplicação móvel, <a href="">clique aqui</a>.
 
 Para fazer o login no sistema, utilize os dados abaixo:
 
-Email: 
+Telefone: 
 <br>
 Senha: 

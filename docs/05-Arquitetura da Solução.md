@@ -16,8 +16,7 @@ Figura 27 - Diagrama de classes
 
 O Modelo ER representa através de um diagrama como as entidades se relacionam entre si na aplicação.
 
-![Untitled Diagram drawio (6)](https://user-images.githubusercontent.com/100742971/228394488-f0459259-18d9-4662-8450-de29ba938adc.png)
-
+![Untitled Diagram](https://user-images.githubusercontent.com/100742971/228888019-93c88dd9-4a50-4392-a1ea-a389628c8deb.png)
 
 Figura 28 - Modelo entidade relacionamento
 

@@ -10,12 +10,14 @@ Apresentamos abaixo os cenários de testes elaborados para a realização dos te
 | Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na aplicação. |
 | Passos 	| - Acessar o aplicativo móvel <br> - Clicar em “Cadastro” na tela inicial <br> - Preencher os campos obrigatórios <br> - Clicar em "Cadastrar" |
 |Critério de Êxito | - O cadastro foi realizado com sucesso. |
+|Fluxo Alternativo | **Fluxo Alternativo 1:** <br> - Usuário inseriu um número de telefone já cadastrado <br> - Mensagem de alerta: Telefone já cadastrado <br> - Deverá inserir outro número não cadastrado de telefone para continuar. <br>**Fluxo Alternativo 2:** <br> - Usuário não preencheu todos os campos obrigatórios <br> - Mensagem de alerta: Favor preencher os campos obrigatórios<br> - Deverá preencher corretamente todos os campos obrigatórios para continuar. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-02 – Efetuar login** 	|
 |	Requisito Associado 	| RF-002 - A aplicação móvel deve permitir ao usuário cadastrado logar em sua conta.  |
 | Objetivo do Teste 	| Verificar se o usuário consegue efetuar o login. |
 | Passos 	| - Acessar o aplicativo móvel <br> - Clicar em “Login” na tela inicial <br> - Preencher os campos obrigatórios <br> - Clicar em "Entrar" |
 |Critério de Êxito | - O login foi realizado com sucesso. |
+|Fluxo Alternativo | **Fluxo Alternativo 1:** <br> - Usuário inseriu um número de telefone não cadastrado <br> - Mensagem de alerta: conta não cadastrada. <br> - Deverá logar em uma conta existente <br>**Fluxo Alternativo 2:** <br> - Usuário não preencheu todos os campos obrigatórios <br> - Mensagem de alerta: Favor preencher os campos obrigatórios<br> - Deverá preencher corretamente todos os campos obrigatórios para continuar. <br> **Fluxo Alternativo 3:** <br> - Usuário errou a senha <br> - Mensagem de alerta: Favor inserir a senha corretamente <br> - Deverá inserir corretamente a senha pra continuar. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-03 – Gerenciar Conta** 	|
 |	Requisito Associado 	| RF-003 - A aplicação móvel deve permitir ao usuário cadastrado gerenciar sua conta.  |
@@ -28,24 +30,28 @@ Apresentamos abaixo os cenários de testes elaborados para a realização dos te
 | Objetivo do Teste 	| Verificar se o usuário consegue inserir os dados dos medicamentos que está tomando. |
 | Passos 	| - Acessar o aplicativo móvel <br> - Efetuar o login na tela inicial <br> - Acessar “Medicamentos” <br> - Preencher os campos obrigatórios <br> - Salvar os dados em “Salvar” |
 |Critério de Êxito | - O registro do(s) medicamento(s) foi realizado com sucesso.  |
+|Fluxo Alternativo | **Fluxo Alternativo 1:** <br> - Usuário não preencheu todos os campos obrigatórios <br> - Mensagem de alerta: Favor preencher os campos obrigatórios<br> - Deverá preencher corretamente todos os campos obrigatórios para continuar. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-05 – Registro de consumo de água** 	|
 |	Requisito Associado 	| RF-005 - A aplicação móvel deve permitir ao usuário registrar a quantidade de água que tomou durante o dia.  |
 | Objetivo do Teste 	| Verificar se o usuário consegue registrar a quantidade de água que tomou durante o dia.  |
 | Passos 	| - Acessar o aplicativo móvel <br> - Efetuar o login na tela inicial <br> - Acessar “Consumo de água” <br> - Preencher os campos obrigatórios <br> - Salvar os dados em “Salvar” |
 |Critério de Êxito | - O registro de consumo de água foi realizado com sucesso.  |
+|Fluxo Alternativo | **Fluxo Alternativo 1:** <br> - Usuário não preencheu todos os campos obrigatórios <br> - Mensagem de alerta: Favor preencher os campos obrigatórios<br> - Deverá preencher corretamente todos os campos obrigatórios para continuar. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-06 – Registro de atividades físicas** 	|
 |	Requisito Associado 	| RF-006 - A aplicação móvel deve permitir ao usuário registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo. |
 | Objetivo do Teste 	| Verificar se o usuário consegue registrar diariamente suas atividades físicas e tempo das atividades físicas.  |
 | Passos 	| - Acessar o aplicativo móvel <br> - Efetuar o login na tela inicial <br> - Acessar “Atividade Física” <br> - Preencher os campos obrigatórios <br> - Salvar os dados em “Salvar” |
 |Critério de Êxito | - O registro da(s) atividade(s) física(s) foi realizado com sucesso.   |
+|Fluxo Alternativo | **Fluxo Alternativo 1:** <br> - Usuário não preencheu todos os campos obrigatórios <br> - Mensagem de alerta: Favor preencher os campos obrigatórios<br> - Deverá preencher corretamente todos os campos obrigatórios para continuar. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-07 – Check-up** 	|
 |	Requisito Associado 	| RF-007 - A aplicação móvel deve permitir ao usuário registrar a data do último check-up e a data aproximada do próximo. |
 | Objetivo do Teste 	| Verificar se o usuário consegue registrar seu check-up. |
 | Passos 	|  - Efetuar o login na tela inicial <br> - Acessar “check-up” <br> - Preencher os campos obrigatórios <br> - Salvar os dados em “Salvar”|
 |Critério de Êxito |  - O registro de check-up foi realizado com sucesso. |
+|Fluxo Alternativo | **Fluxo Alternativo 1:** <br> - Usuário não preencheu todos os campos obrigatórios <br> - Mensagem de alerta: Favor preencher os campos obrigatórios<br> - Deverá preencher corretamente todos os campos obrigatórios para continuar. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-08 – Compartilhar informações** 	|
 |	Requisito Associado 	| RF-008 - A aplicação móvel deve permitir que o usuário compartilhe as informações registradas na aplicação. |

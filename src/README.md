@@ -1,11 +1,11 @@
 # Instruções de utilização
 
-## Instalação do Site
+## Instalação da aplicação móvel
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
+...
 
 ## Histórico de versões
 
-### [0.1.0] - DD/MM/AAAA
+### [0.1.0] - 30/03/2023
 #### Adicionado
-- Adicionado ...
+- Layout padrão da aplicação

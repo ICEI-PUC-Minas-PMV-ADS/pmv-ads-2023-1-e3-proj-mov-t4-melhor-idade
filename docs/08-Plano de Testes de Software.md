@@ -10,7 +10,7 @@ Apresentamos abaixo os cenários de testes elaborados para a realização dos te
 | Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na aplicação. |
 | Passos 	| - Acessar o aplicativo móvel <br> - Clicar em “Cadastro” na tela inicial <br> - Preencher os campos obrigatórios <br> - Clicar em "Cadastrar" |
 |Critério de Êxito | - O cadastro foi realizado com sucesso. |
-|Fluxo Alternativo | **Fluxo Alternativo 1:** <br> - Usuário inseriu um número de telefone já cadastrado <br> - Mensagem de alerta: Telefone já cadastrado <br> - Deverá inserir outro número não cadastrado de telefone para continuar. <br>**Fluxo Alternativo 2:** <br> - Usuário não preencheu todos os campos obrigatórios <br> - Mensagem de alerta: Favor preencher os campos obrigatórios<br> - Deverá preencher corretamente todos os campos obrigatórios para continuar. |
+|Fluxo Alternativo | **Fluxo Alternativo 1:** <br> - Usuário inseriu um número de telefone já cadastrado <br> - Mensagem de alerta: Telefone já cadastrado <br> - Deverá inserir outro número não cadastrado de telefone para continuar. <br>**Fluxo Alternativo 2:** <br> - Usuário não preencheu todos os campos obrigatórios <br> - Mensagem de alerta: Favor preencher os campos obrigatórios<br> - Deverá preencher corretamente todos os campos obrigatórios para continuar. <br>**Fluxo Alternativo 3:** <br> - Usuário inseriu no campo "confirmar sua senha" uma senha diferente do campo anterior <br> - Mensagem de alerta: As senhas não são iguais. Tente novamente. <br> - Deverá inserir corretamente a senha para continuar. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-02 – Efetuar login** 	|
 |	Requisito Associado 	| RF-002 - A aplicação móvel deve permitir ao usuário cadastrado logar em sua conta.  |

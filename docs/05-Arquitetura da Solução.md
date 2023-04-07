@@ -39,6 +39,7 @@ As tecnologias listadas abaixo serão utilizadas para a implementação da solu�
 * Expo Dev
 * React
 * React Native
+* React Native Paper
 * JSON
 * JavaScript XML (JSX)
 

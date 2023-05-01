@@ -20,13 +20,12 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Maria Oliveira de Souza  | Lembrete de beber água                                 | Aumentar o consumo de água. |
 |Maria Oliveira de Souza  | Registro diário do consumo de água                     | Registrar e incentivar a beber água diariamente. |
 |Elizabete Pereira Macedo | Cadastrar o medicamento de uso próprio                 | Auxiliar na dosagem correta da medicação. |
-|Elizabete Pereira Macedo | Lembrete do uso da medicação                           | Facilitar o uso da medicação no horário correto. |
-|Marcos Nogueira Machado  | Lembrete do próximo check-up               | Auxiliar os pacientes e familiares com antecedência sobre o agendamento do próximo check-up.|
-|Pedro José Santos        | Lembrete da prática de exercício físico                  | Lembrar de exercitar diariamente.|
-|Cláudia Brandão de Souza | Acompanhar a distância a saúde de familiares idosos    | Facilitar o acompanhamento à distância da saúde da mãe. |
+|Elizabete Pereira Macedo | Registro diário do uso da medicação                           | Facilitar o uso da medicação no horário correto. |
+|Marcos Nogueira Machado  | Registro do próximo check-up               | Auxiliar os pacientes e familiares com antecedência sobre o agendamento do próximo check-up.|
+|Pedro José Santos        | Registro diário da prática de exercício físico                  | Lembrar de exercitar diariamente.|
+|Cláudia Brandão de Souza | Acompanhar à distância a saúde de familiares idosos    | Facilitar o acompanhamento à distância da saúde da mãe. |
 
 ## Modelagem do Processo de Negócio 
 

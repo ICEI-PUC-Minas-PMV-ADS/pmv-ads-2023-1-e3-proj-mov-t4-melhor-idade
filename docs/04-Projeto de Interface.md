@@ -15,7 +15,7 @@ O diagrama abaixo apresenta o estudo do fluxo de interação do usuário com o s
 
 ![DiagramaSemNotificações drawio](https://user-images.githubusercontent.com/81182674/227804481-9d4b33ca-aab2-4ab9-8c61-c2f1b29789c3.png)
 
-Figura 17 - Diagrama de fluxo
+Figura 16 - Diagrama de fluxo
 
 
 
@@ -32,7 +32,7 @@ Apresentamos abaixo o protótipo usado para demonstrar a estrutura da aplicaçã
  
 ![image](https://user-images.githubusercontent.com/81182674/227803713-a87a8d0f-1c8a-4953-a2bf-f79c4c895595.png)
 
-Figura 18 - Tela de acesso
+Figura 17 - Tela de acesso
 
 <hr>
 
@@ -42,7 +42,7 @@ A tela de Cadastro apresenta um formulário para que o usuário insira seus dado
 
 ![image](https://user-images.githubusercontent.com/81182674/227803961-9d4af38b-3a2f-4952-a74c-d15f0decd2ab.png)
 
-Figura 19 - Tela de cadastro de usuário
+Figura 18 - Tela de cadastro de usuário
 
 <hr>
 
@@ -52,7 +52,7 @@ A Tela de Login apresenta campos para inserção de telefone e senha.
 
 ![image](https://user-images.githubusercontent.com/81182674/227804066-60c06038-f794-48f4-bd6e-16554f570b2a.png)
 
-Figura 20 - Tela de login
+Figura 19 - Tela de login
 
 <hr>
 
@@ -62,7 +62,7 @@ A Tela Inicial apresenta um banner com um breve resumo das funcionalidades e um 
 
 ![image](https://user-images.githubusercontent.com/81182674/227804572-b207504d-3c75-46d2-8171-cc7de0c0c4b9.png)
 
-Figura 21 - Tela inicial
+Figura 20 - Tela inicial
 
 <hr>
 
@@ -72,7 +72,7 @@ A Tela de Perfil apresenta as informações preenchidas pelo usuário na Tela de
 
 ![image](https://user-images.githubusercontent.com/81182674/227805142-c47ff524-084e-4b90-8ef6-0c8e801535e6.png)
 
-Figura 22 - Tela de perfil
+Figura 21 - Tela de perfil
 
 <hr>
 
@@ -82,7 +82,7 @@ A Tela de Medicamentos apresenta um pequeno formulário onde o usuário informar
 
 ![image](https://user-images.githubusercontent.com/81182674/227805053-2292bd58-ce72-4c50-8714-b46e3d606b4a.png)
 
-Figura 23 - Tela de medicamentos
+Figura 22 - Tela de medicamentos
 
 <hr>
 
@@ -92,7 +92,7 @@ A Tela de água apresenta um pequeno formulário onde o usuário informará quan
  
 ![image](https://user-images.githubusercontent.com/81182674/227807191-5800af7c-d764-4c70-a929-dc68426b43ee.png)
 
-Figura 24 - Tela de ingestão de água
+Figura 23 - Tela de ingestão de água
  
  <hr>
  
@@ -102,7 +102,7 @@ A Tela de Atividade Física apresenta um pequeno formulário onde o usuário inf
 
 ![image](https://user-images.githubusercontent.com/81182674/227805369-a25b77a1-3411-454a-8006-58890599475f.png)
 
-Figura 25 - Tela de atividade física
+Figura 24 - Tela de atividade física
 
 <hr>
 
@@ -112,4 +112,4 @@ A Tela de Check-up apresenta um pequeno formulário onde o usuário informará a
  
  ![image](https://user-images.githubusercontent.com/81182674/227806092-ce108f52-cdeb-4d2d-9cf6-8ba6c3c7ea6c.png)
  
- Figura 26 - Tela de check-up
+ Figura 25 - Tela de check-up

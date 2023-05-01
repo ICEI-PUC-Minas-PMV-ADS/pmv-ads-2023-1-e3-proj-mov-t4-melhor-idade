@@ -32,11 +32,11 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 ### Análise da Situação Atual
 
-Atualmente, o controle e cuidados relacionados com a saúde dos idosos exige que o próprio idoso lembre de seus compromissos como realizar check-ups médicos, fazer o uso de medicação, exercícios físicos, entre outros, criando uma dependência em relação a terceiros e familiares. Isso tudo é geralmente feito de forma manual, seja com anotações ou pela memória do próprio idoso.
+Atualmente, o controle e cuidados relacionados com a saúde dos idosos exige que o próprio idoso lembre de seus compromissos, como realizar check-ups médicos, fazer o uso de medicação, exercícios físicos, entre outros, criando uma dependência em relação a terceiros e familiares. Isso tudo é geralmente feito de forma manual, seja com anotações ou pela memória do próprio idoso.
 
 ### Descrição Geral da Proposta
 
-A proposta do Melhor Idade é digitalizar todo o processo de acompanhamento, controle e registro médico, tornando mais fácil e eficaz para os idosos. Com o Melhor Idade, um familiar ou amigo poderá acompanhar a saúde do idoso de forma remota, auxiliando o mesmo com seus compromissos. Também será possível criar lembretes com alarmes para uso de medicamentos, consultas médicas e ingestão de água. O idoso poderá acompanhar tudo através de um registro de atividades.
+A proposta do Melhor Idade é digitalizar todo o processo de acompanhamento, controle e registro médico, tornando mais fácil e eficaz para os idosos. Com o Melhor Idade, um familiar ou amigo poderá acompanhar a saúde do idoso de forma remota, auxiliando o mesmo com seus compromissos. O idoso poderá acompanhar tudo através de um registro de atividades.
 
 ### Processo 1 – Cadastro de usuário
 ![image](https://user-images.githubusercontent.com/100742971/221708499-84ffc05b-f775-41ce-8120-767b51998890.png)
@@ -50,12 +50,9 @@ Figura 4 - Processo de cadastro de remédio
 ### Processo 4 – Registrar água
 ![image](https://user-images.githubusercontent.com/100742971/221708674-ae261d47-cc00-437e-93e3-75b6a5225949.png)
 Figura 5 - Processo de registro de ingestão de água
-### Processo 5 – Alarme remédio
-![image](https://user-images.githubusercontent.com/100742971/221708719-9adaf1af-9d7e-4b97-9465-01c31c211bae.png)
-Figura 6 - Processo de notificação para a ingestão de medicamentos
-### Processo 6 – Compartilhar informações
+### Processo 5 – Compartilhar informações
 ![image](https://user-images.githubusercontent.com/100742971/221708773-1cbbaab5-ae6d-421c-a48f-be11c90032ef.png)
-Figura 7 - Processo de compartilhamento de informações
+Figura 6 - Processo de compartilhamento de informações
 
 ## Indicadores de Desempenho
 

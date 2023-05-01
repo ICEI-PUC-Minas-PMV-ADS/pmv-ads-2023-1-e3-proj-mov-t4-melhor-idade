@@ -4,6 +4,11 @@
 
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 
+<h3>CT-05 – Registro de consumo de água</h3>
+<p>Registro, exclusão e atualização do consumo de água.</p>
+
+https://user-images.githubusercontent.com/100447878/235490302-407e00b8-76df-4aa5-91bb-fb9942b37a84.mp4
+
 ## Avaliação
 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.

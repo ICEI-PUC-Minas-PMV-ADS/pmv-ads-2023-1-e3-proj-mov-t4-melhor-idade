@@ -95,7 +95,7 @@ A técnica de priorização de requisitos utilizada foi a Escala de Três Nívei
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100447878/221410981-1cba85ae-03f7-4367-97a7-a198fb7453f4.png" style="width:600px;height:400px;">
-    <figcaption>Figura 8 - Quadrante de priorização de requisitos</figcaption>
+    <figcaption>Figura 7 - Quadrante de priorização de requisitos</figcaption>
 </figure>
 
 ## Restrições
@@ -116,7 +116,7 @@ O diagrama contempla as principais ligações previstas entre casos de uso e ato
 
 
 
-Figura 9 - Diagrama de casos de uso
+Figura 8 - Diagrama de casos de uso
 
 
 # Matriz de Rastreabilidade
@@ -134,7 +134,7 @@ TC - Casos de Testes    |
 |M-Módulos  | 
 DC-Diagrama de Classes   |
 
-Figura 10 - Matriz de rastreabilidade
+Figura 9 - Matriz de rastreabilidade
 
 # Gerenciamento de Projeto
 
@@ -145,16 +145,16 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 O diagrama abaixo nos permite gerenciar o tempo no projeto, a fim de estimar o tempo necessário para sua conclusão.
 
 ![Gerenciamento de tempo](https://user-images.githubusercontent.com/81182674/221701137-c7b2b10f-1c6a-4439-aa45-747066329192.png)
-Figura 11 - Diagrama de gerenciamento de tempo do projeto
+Figura 10 - Diagrama de gerenciamento de tempo do projeto
 
 ## Gerenciamento de Equipe
 
 O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
 
 ![Gerenciamento](https://user-images.githubusercontent.com/100447878/222730211-ee01ea0b-d340-4b8e-91ff-0c2dceae3bb1.png)
-Figura 12 - Gerenciamento da equipe com a timeline do projeto
+Figura 11 - Gerenciamento da equipe com a timeline do projeto
 
 ## Gestão de Orçamento
 
 ![Orçamento](https://user-images.githubusercontent.com/100447878/222771347-4a09daac-9702-4b74-85eb-7dfeb35a9339.png)
-Figura 13 - Orçamento do projeto
+Figura 12 - Orçamento do projeto

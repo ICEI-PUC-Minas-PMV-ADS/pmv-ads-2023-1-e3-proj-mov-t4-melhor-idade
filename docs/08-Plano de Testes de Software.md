@@ -35,7 +35,7 @@ Apresentamos abaixo os cenários de testes elaborados para a realização dos te
 | **Caso de Teste** 	| **CT-05 – Registro de consumo de água** 	|
 |	Requisito Associado 	| RF-005 - A aplicação móvel deve permitir ao usuário registrar a quantidade de água que tomou durante o dia.  |
 | Objetivo do Teste 	| Verificar se o usuário consegue registrar a quantidade de água que tomou durante o dia.  |
-| Passos 	| - Acessar o aplicativo móvel <br> - Efetuar o login na tela inicial <br> - Acessar “Água” no menu <br> - Preencher os campos obrigatórios <br> - Salvar os dados em “Salvar” |
+| Passos 	| - Acessar o aplicativo móvel <br> - Efetuar o login na tela inicial <br> - Acessar “Água” no menu <br> - Clicar no botão com o símbolo "+" (mais) <br> - Preencher os campos obrigatórios <br> - Salvar os dados em “Salvar” |
 |Critério de Êxito | - O registro de consumo de água foi realizado com sucesso.  |
 |Fluxo Alternativo | **Fluxo Alternativo 1:** <br> - Usuário não preencheu todos os campos obrigatórios <br> - Mensagem de alerta: Favor preencher os campos obrigatórios<br> - Deverá preencher corretamente todos os campos obrigatórios para registrar. |
 |  	|  	|

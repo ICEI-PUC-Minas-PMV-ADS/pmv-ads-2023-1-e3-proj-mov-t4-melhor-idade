@@ -10,7 +10,7 @@ Abra o aplicativo e registre quantos copos de água ingeriu durante o dia.
   
  -- Inserir vídeo 
  
-Abra o aplicativo e altere quantos copos de água ingeriu durante o dia. Após este procedimento, responda o formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
+Abra o aplicativo e altere quantos copos de água ingeriu durante o dia. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 
  
 -- Inserir vídeo  

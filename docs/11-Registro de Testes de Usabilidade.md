@@ -12,10 +12,7 @@ https://user-images.githubusercontent.com/100447878/235952598-d829dcb0-877b-4fcd
 
 Abra o aplicativo e altere quantos copos de água ingeriu durante o dia. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 
- 
--- Inserir vídeo  
-  
-  
+https://user-images.githubusercontent.com/100447878/235955331-d8bf1c4f-418e-4bd7-a33e-990e82592655.mp4
   
 > **Links Úteis**:
 > - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)

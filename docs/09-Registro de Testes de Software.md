@@ -4,6 +4,19 @@
 
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 
+<h3>CT-04 – Registro de Remédios</h3>
+<p>Registro, exclusão e atualização de remédios.</p>
+
+
+
+
+
+
+https://user-images.githubusercontent.com/81182674/235951724-540e55d5-a958-4a68-8f5d-29ed6080b86b.MP4
+
+
+
+
 <h3>CT-05 – Registro de consumo de água</h3>
 <p>Registro, exclusão e atualização do consumo de água.</p>
 

@@ -15,7 +15,7 @@ Apresentamos abaixo os cenários de testes elaborados para a realização dos te
 | **Caso de Teste** 	| **CT-02 – Efetuar login** 	|
 |	Requisito Associado 	| RF-002 - A aplicação móvel deve permitir ao usuário cadastrado logar em sua conta.  |
 | Objetivo do Teste 	| Verificar se o usuário consegue efetuar o login. |
-| Passos 	| - Acessar o aplicativo móvel <br> - Clicar em “Login” na tela inicial <br> - Preencher os campos obrigatórios <br> - Clicar em "Entrar" |
+| Passos 	| - Acessar o aplicativo móvel <br> - Clicar em “Entrar” na tela inicial <br> - Preencher os campos obrigatórios <br> - Clicar em "Entrar" |
 |Critério de Êxito | - O login foi realizado com sucesso. |
 |Fluxo Alternativo | **Fluxo Alternativo 1:** <br> - Usuário inseriu um e-mail ou senha inválidos <br> - Mensagem de alerta: "E-mail ou senha inválidos!" <br> - Deverá inserir uma senha e/ou e-mail válido <br>**Fluxo Alternativo 2:** <br> - Usuário não preencheu todos os campos obrigatórios <br> - Mensagem de alerta: Favor preencher os campos obrigatórios<br> - Deverá preencher corretamente todos os campos obrigatórios para continuar. |
 |  	|  	|

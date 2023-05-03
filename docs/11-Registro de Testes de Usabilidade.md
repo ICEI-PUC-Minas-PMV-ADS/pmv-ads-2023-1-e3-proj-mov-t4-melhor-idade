@@ -6,11 +6,11 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 
 |IDENTIFICAÇÃO | IDADE | GRAU DE INSTRUÇÃO     | PROFISSÃO                     |
 |--------------|-------|-----------------------|-------------------------------|
-|Voluntário 01 | 64    | Superior Completo     | Designer              |
-|Voluntário 02 | |        |    |
-|Voluntário 03 |     |  |      |
-|Voluntário 04 |     |   |                 |
-|Voluntário 05 |     |    |  |
+|Voluntário(a) 01 | 64    | Superior completo     | Designer              |
+|Voluntário(a) 02 | |        |    |
+|Voluntário(a) 03 |     |  |      |
+|Voluntário(a) 04 |     |   |                 |
+|Voluntário(a) 05 |     |    |  |
 
 <h3>Objetivos</h3>
 

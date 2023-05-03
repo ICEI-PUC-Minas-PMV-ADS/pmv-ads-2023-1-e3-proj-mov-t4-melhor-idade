@@ -17,7 +17,7 @@ Apresentamos abaixo os cenários de testes elaborados para a realização dos te
 | Objetivo do Teste 	| Verificar se o usuário consegue efetuar o login. |
 | Passos 	| - Acessar o aplicativo móvel <br> - Clicar em “Login” na tela inicial <br> - Preencher os campos obrigatórios <br> - Clicar em "Entrar" |
 |Critério de Êxito | - O login foi realizado com sucesso. |
-|Fluxo Alternativo | **Fluxo Alternativo 1:** <br> - Usuário inseriu um e-mail não cadastrado <br> - Mensagem de alerta: conta não cadastrada. <br> - Deverá logar em uma conta existente <br>**Fluxo Alternativo 2:** <br> - Usuário não preencheu todos os campos obrigatórios <br> - Mensagem de alerta: Favor preencher os campos obrigatórios<br> - Deverá preencher corretamente todos os campos obrigatórios para continuar. <br> **Fluxo Alternativo 3:** <br> - Usuário errou a senha <br> - Mensagem de alerta: Favor inserir a senha corretamente <br> - Deverá inserir corretamente a senha pra continuar. |
+|Fluxo Alternativo | **Fluxo Alternativo 1:** <br> - Usuário inseriu um e-mail ou senha inválidos <br> - Mensagem de alerta: "E-mail ou senha inválidos!" <br> - Deverá inserir uma senha e/ou e-mail válido <br>**Fluxo Alternativo 2:** <br> - Usuário não preencheu todos os campos obrigatórios <br> - Mensagem de alerta: Favor preencher os campos obrigatórios<br> - Deverá preencher corretamente todos os campos obrigatórios para continuar. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-03 – Gerenciar Conta** 	|
 |	Requisito Associado 	| RF-003 - A aplicação móvel deve permitir ao usuário cadastrado gerenciar sua conta.  |

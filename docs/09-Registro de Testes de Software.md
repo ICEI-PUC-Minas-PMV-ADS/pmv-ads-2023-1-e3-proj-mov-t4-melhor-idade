@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/98122346/235966303-20c9e5d8-c1ae-4dae-
 
 
 **Fluxo Alternativo 1**
-<p>Usuário inseriu um e-mail ou senha inválidos</p>
+<p>Usuário inseriu um e-mail e/ou senha inválidos</p>
 
 
 

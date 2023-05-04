@@ -9,7 +9,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 |ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
 |RF-001| A aplicação móvel deve permitir ao usuário cadastrar uma conta. |  | 
-|RF-002| A aplicação móvel deve permitir ao usuário cadastrado logar em sua conta. |  | 
+|RF-002| A aplicação móvel deve permitir ao usuário cadastrado logar em sua conta. | Login.js /auth.services.js /webapi.services.js  | 
 |RF-003| A aplicação móvel deve permitir ao usuário cadastrado gerenciar sua conta.  |  |
 |RF-004| A aplicação móvel deve permitir ao usuário inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando.   | Remedios.js / RemediosCadastro.js / remedios.services.js |
 |RF-005| A aplicação móvel deve permitir ao usuário registrar a quantidade de água que tomou durante o dia. | Agua.js / AguaRegistro.js / aguas.services.js |

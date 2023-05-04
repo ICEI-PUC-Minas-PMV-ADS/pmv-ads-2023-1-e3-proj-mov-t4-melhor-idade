@@ -2,6 +2,16 @@
 
 Após realizar os testes de usabilidade, obtém-se um relatório a partir das análises realizadas. O Registro de Testes de Usabilidade é um relatório que contém as evidências dos testes e relatos dos usuários participantes, baseado no Plano de Testes de Usabilidade desenvolvido para os casos de uso desta etapa.
 
+<h3>Perfil dos usuários</h3>
+
+|IDENTIFICAÇÃO | IDADE | GRAU DE INSTRUÇÃO     | PROFISSÃO                     |
+|--------------|-------|-----------------------|-------------------------------|
+|Voluntário(a) 01 | 32    | Superior completo     | Designer              |
+|Voluntário(a) 02 | 28 |   Superior completo     | Médico  |   
+|Voluntário(a) 03 |     |  |      |
+|Voluntário(a) 04 |     |   |                 |
+|Voluntário(a) 05 |     |    |  |
+
 <h3>Objetivos</h3>
 <h4> 04 -Eficiência dos usuários em inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando.</h4>
 

@@ -3,6 +3,21 @@
 Após realizar os testes de usabilidade, obtém-se um relatório a partir das análises realizadas. O Registro de Testes de Usabilidade é um relatório que contém as evidências dos testes e relatos dos usuários participantes, baseado no Plano de Testes de Usabilidade desenvolvido para os casos de uso desta etapa.
 
 <h3>Objetivos</h3>
+<h4> 04 -Eficiência dos usuários em inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando.</h4>
+
+Abra o aplicativo e registre o nome e a dosagem de um medicamento que tomou durante o dia.
+
+
+
+https://user-images.githubusercontent.com/81182674/236075749-863d06d7-40d2-45f2-a0de-0b9d154c5146.MP4
+
+Abra o aplicativo e altere a dosagem do medicamento que você cadastrou. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
+
+
+
+https://user-images.githubusercontent.com/81182674/236075906-6dd91909-9acb-4800-aee0-c51d22bd9d2b.MP4
+
+
 
 <h4> 05 - Eficiência dos usuários em registrar a quantidade de água que tomou durante o dia.</h4>
 

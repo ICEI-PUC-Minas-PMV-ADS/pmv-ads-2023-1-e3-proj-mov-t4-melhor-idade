@@ -46,6 +46,15 @@ https://user-images.githubusercontent.com/81182674/235951724-540e55d5-a958-4a68-
 
 https://user-images.githubusercontent.com/100447878/235490302-407e00b8-76df-4aa5-91bb-fb9942b37a84.mp4
 
+<h3>CT-06 – Registro de atividade física</h3>
+<p>Registro, exclusão e atualização de atividade física.</p>
+
+
+
+https://user-images.githubusercontent.com/100742971/236596527-4bdaa986-e976-4ca8-9f3d-f9883d208723.mp4
+
+
+
 ## Avaliação
 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.

@@ -68,6 +68,8 @@ Abra o aplicativo e registre o nome e a dosagem de um medicamento que tomou dura
 
 https://user-images.githubusercontent.com/81182674/236075749-863d06d7-40d2-45f2-a0de-0b9d154c5146.MP4
 
+<h4> 05.1 -Eficiência dos usuários em editar nome(s) e a dosagem do(s) medicamento(s) que está tomando .</h4>
+
 Abra o aplicativo e altere a dosagem do medicamento que você cadastrou. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 
 
@@ -81,6 +83,8 @@ https://user-images.githubusercontent.com/81182674/236075906-6dd91909-9acb-4800-
 Abra o aplicativo e registre quantos copos de água ingeriu durante o dia.
 
 https://user-images.githubusercontent.com/100447878/235952598-d829dcb0-877b-4fcd-a37c-5b251f16a610.mp4
+
+<h4> 06.1 -Eficiência dos usuários em editar o registro da quantidade de água que tomou durante o dia.</h4>
 
 Abra o aplicativo e altere quantos copos de água ingeriu durante o dia. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 

@@ -6,14 +6,61 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 
 |IDENTIFICAÇÃO | IDADE | GRAU DE INSTRUÇÃO     | PROFISSÃO                     |
 |--------------|-------|-----------------------|-------------------------------|
-| 01 | 32    | Superior completo     | Designer              |
-| 02 | 28 |   Superior completo     | Médico  |   
-| 03 |     |  |      |
-| 04 |     |   |                 |
-| 05 |     |    |  |
+| 01 |  30   |    Superior incompleto    |     Estudante            |
+| 02 |  |       |  |   
+| 03 |    |  |      |
+| 04 | 50   | Superior completo  |  Cientista Político     |
+| 05| 28 | Superior completo   | Médico |
+| 06 | 32  | Superior completo   | Designer |
 
 <h3>Objetivos</h3>
-<h4> 04 -Eficiência dos usuários em inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando.</h4>
+
+<h4> 01 - Eficiência dos usuários em inserir o(s) seu(s) os dados(s) pessoais na página de cadastro.</h4>
+
+
+https://user-images.githubusercontent.com/100734910/236641194-9499cd8d-3ab3-407e-8f38-1157cad149dc.mp4
+
+
+
+
+
+Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
+
+
+
+
+<h4> 02 - LOGIN .</h4>
+
+<h4> 03 - ATIVIDADE .</h4>
+
+
+
+
+
+
+
+
+
+
+
+<h4> 04 -Eficiência dos usuários em inserir o último e próximo check up .</h4>
+
+Abra o aplicativo e registre a data do último e próximo check up.
+
+https://user-images.githubusercontent.com/100734910/236640074-913ab7c8-1642-4eda-aba1-4f97e6838f4c.mp4
+
+
+
+<h4> 04.1 -Eficiência dos usuários em editar o último e próximo check up .</h4>
+
+Abra o aplicativo e altere o registro da data do check up que você cadastrou. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
+
+https://user-images.githubusercontent.com/100734910/236640071-2e403275-d40a-4b9a-bfa8-126a163a0915.mp4
+
+
+
+
+<h4> 05 -Eficiência dos usuários em inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando.</h4>
 
 Abra o aplicativo e registre o nome e a dosagem de um medicamento que tomou durante o dia.
 
@@ -29,7 +76,7 @@ https://user-images.githubusercontent.com/81182674/236075906-6dd91909-9acb-4800-
 
 
 
-<h4> 05 - Eficiência dos usuários em registrar a quantidade de água que tomou durante o dia.</h4>
+<h4> 06 - Eficiência dos usuários em registrar a quantidade de água que tomou durante o dia.</h4>
 
 Abra o aplicativo e registre quantos copos de água ingeriu durante o dia.
 
@@ -38,4 +85,13 @@ https://user-images.githubusercontent.com/100447878/235952598-d829dcb0-877b-4fcd
 Abra o aplicativo e altere quantos copos de água ingeriu durante o dia. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 
 https://user-images.githubusercontent.com/100447878/235955331-d8bf1c4f-418e-4bd7-a33e-990e82592655.mp4
+
+
+
+
+
+
+
+
+
 

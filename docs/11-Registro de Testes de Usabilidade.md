@@ -7,7 +7,7 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 |IDENTIFICAÇÃO | IDADE | GRAU DE INSTRUÇÃO     | PROFISSÃO                     |
 |--------------|-------|-----------------------|-------------------------------|
 | 01 |  30   |    Superior incompleto    |     Estudante            |
-| 02 |  |       |  |   
+| 02 | 61 |  Superior completo     | Arquiteta |   
 | 03 |    |  |      |
 | 04 | 50   | Superior completo  |  Cientista Político     |
 | 05| 28 | Superior completo   | Médico |
@@ -29,7 +29,21 @@ Após este procedimento, responda ao formulário com perguntas sobre a sua opini
 
 
 
-<h4> 02 - LOGIN .</h4>
+<h4> 02 - Eficiência dos usuários em fazer login em suas contas.</h4>
+
+
+Abra o aplicativo e tente entrar em sua conta.
+
+
+https://user-images.githubusercontent.com/98122346/236645987-6a2f7903-8009-40e2-aae9-f8389469257c.mp4
+
+
+
+
+
+Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
+
+
 
 <h4> 03 - ATIVIDADE .</h4>
 

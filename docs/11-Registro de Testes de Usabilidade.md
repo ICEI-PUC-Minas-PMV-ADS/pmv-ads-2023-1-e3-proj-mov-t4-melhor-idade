@@ -43,15 +43,15 @@ Após este procedimento, responda ao formulário com perguntas sobre a sua opini
 
 
 
-<h4> 04 -Eficiência dos usuários em inserir o último e próximo check up .</h4>
+<h4> 04 -Eficiência dos usuários em inserir o último e próximo check-up .</h4>
 
-Abra o aplicativo e registre a data do último e próximo check up.
+Abra o aplicativo e registre a data do último e próximo check-up.
 
 https://user-images.githubusercontent.com/100734910/236640074-913ab7c8-1642-4eda-aba1-4f97e6838f4c.mp4
 
 
 
-<h4> 04.1 -Eficiência dos usuários em editar o último e próximo check up .</h4>
+<h4> 04.1 -Eficiência dos usuários em editar o último e próximo check-up .</h4>
 
 Abra o aplicativo e altere o registro da data do check up que você cadastrou. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 

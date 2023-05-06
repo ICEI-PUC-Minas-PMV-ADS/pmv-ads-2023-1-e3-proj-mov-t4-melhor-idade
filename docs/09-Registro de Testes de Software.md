@@ -4,6 +4,28 @@
 
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 
+<h3>CT-01 – Cadastro</h3>
+<p>Usuário realizando o cadastro com sucesso</p>
+
+
+
+https://user-images.githubusercontent.com/100734910/236643258-45fa4ed6-d55f-4b85-a3d7-aa3a2339aaa8.mp4
+
+
+
+
+**Fluxo Alternativo 1**
+
+<p>Usuário não inseriu todos os campos solicitados.</p>
+
+
+
+
+https://user-images.githubusercontent.com/100734910/236643631-94aad33f-3e6b-405f-94d4-047fe6ad98b5.mp4
+
+
+
+
 <h3>CT-02 – Efetuar login</h3>
 <p>Usuário cadastrado consegue logar em sua conta</p>
 
@@ -24,6 +46,19 @@ https://user-images.githubusercontent.com/98122346/235966303-20c9e5d8-c1ae-4dae-
 
 
 https://user-images.githubusercontent.com/98122346/235966966-0b3609be-ede1-4ce9-894a-535215fbd368.mp4
+
+
+
+<h3>CT-03 – Registro Check-up</h3>
+<p>Registro, atualização e exclusão de check-up.</p>
+
+
+
+
+
+https://user-images.githubusercontent.com/100734910/236642213-0a55b72f-76a3-4cc0-bf0e-dee31bede8f2.mp4
+
+
 
 
 

@@ -8,13 +8,13 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 |ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação móvel deve permitir ao usuário cadastrar uma conta. |  | 
+|RF-001| A aplicação móvel deve permitir ao usuário cadastrar uma conta. | Register.js | auth.services.js  | 
 |RF-002| A aplicação móvel deve permitir ao usuário cadastrado logar em sua conta. | Login.js /auth.services.js /webapi.services.js  | 
 |RF-003| A aplicação móvel deve permitir ao usuário cadastrado gerenciar sua conta.  |  |
 |RF-004| A aplicação móvel deve permitir ao usuário inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando.   | Remedios.js / RemediosCadastro.js / remedios.services.js |
 |RF-005| A aplicação móvel deve permitir ao usuário registrar a quantidade de água que tomou durante o dia. | Agua.js / AguaRegistro.js / aguas.services.js |
-|RF-006| A aplicação móvel deve permitir ao usuário registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo.    |  |
-|RF-007| A aplicação móvel deve permitir ao usuário registrar a data do último check-up e a data aproximada do próximo.   |  |
+|RF-006| A aplicação móvel deve permitir ao usuário registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo.|Atividade.js / AtividadeRegistro.js / atividades.services.js   |
+|RF-007| A aplicação móvel deve permitir ao usuário registrar a data do último check-up e a data aproximada do próximo.   Checkup.js /CheckupRegistro.js  checkups.services.js |
 |RF-008| A aplicação móvel deve permitir que o usuário compartilhe as informações registradas na aplicação.   |  |
 
 

@@ -69,8 +69,6 @@ https://user-images.githubusercontent.com/100742971/236651561-de37d7d6-7f6f-433c
 
 
 
-
-
 <h4> 04 -Eficiência dos usuários em inserir o último e próximo check-up.</h4>
 
 Abra o aplicativo e registre a data do último e próximo check-up.

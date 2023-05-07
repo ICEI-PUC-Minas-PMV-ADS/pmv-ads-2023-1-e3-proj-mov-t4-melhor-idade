@@ -8,7 +8,7 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 |--------------|-------|-----------------------|-------------------------------|
 | 01 |  30   |    Superior incompleto    |     Estudante            |
 | 02 | 61 |  Superior completo     | Arquiteta |   
-| 03 |    |  |      |
+| 03 |  72  | Superior incompleto |  Uber    |
 | 04 | 50   | Superior completo  |  Cientista Político     |
 | 05| 28 | Superior completo   | Médico |
 | 06 | 32  | Superior completo   | Designer |
@@ -45,10 +45,24 @@ Após este procedimento, responda ao formulário com perguntas sobre a sua opini
 
 
 
-<h4> 03 - ATIVIDADE .</h4>
+<h4> 03 - Eficiência dos usuários em registrar atividade física .</h4>
+
+Abra o aplicativo e registre sua atividade física.
+
+
+https://user-images.githubusercontent.com/100742971/236651557-adaeb039-7ac5-485e-9085-b11f40eb5f4d.mp4
 
 
 
+
+<h4> 03.1 - Eficiência dos usuários em editar atividade física .</h4>
+
+Abra o aplicativo e altere o registro da atividade física. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
+
+
+
+
+https://user-images.githubusercontent.com/100742971/236651561-de37d7d6-7f6f-433c-9029-128ae34b3f28.mp4
 
 
 

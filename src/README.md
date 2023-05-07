@@ -20,5 +20,5 @@ Senha: 12345
 #### Adicionado
 - Atualização do layout padrão da aplicação;
 - Criação das páginas Login, Cadastro e Home;
-- Criação das páginas de cadastro e registros das páginas Remédios, Ágia, Atividade Física e Check-up;
+- Criação das páginas de cadastro e registros das páginas Remédios, Água, Atividade física e Check-up;
 - Navegação entre telas.

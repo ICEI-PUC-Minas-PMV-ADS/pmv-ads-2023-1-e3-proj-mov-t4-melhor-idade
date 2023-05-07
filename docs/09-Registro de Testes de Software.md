@@ -92,4 +92,4 @@ https://user-images.githubusercontent.com/100742971/236596527-4bdaa986-e976-4ca8
 
 ## Avaliação
 
-Os testes de software mostraram que os requisitos priorizados foram atendidos, funcionando como planejado. Para as próximas iterações, serão acrescentados o gerenciamento do cadastro do usuário na página Perfil, padrinização dos campos de cadastrode informações (data e hora) e validação dos campos nas páginas de cadastros de remédios, consumode água, atividade fícida e chack-up.
+Os testes de software mostraram que os requisitos priorizados foram atendidos, funcionando como planejado. Para as próximas iterações, serão acrescentados o gerenciamento do cadastro do usuário na página Perfil, padronização dos campos de cadastro de informações (data e hora) e validação dos campos nas páginas de cadastros de remédios, consumo de água, atividade física e check-up.

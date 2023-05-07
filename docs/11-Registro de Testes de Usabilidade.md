@@ -45,7 +45,7 @@ Após este procedimento, responda ao formulário com perguntas sobre a sua opini
 
 
 
-<h4> 03 - Eficiência dos usuários em registrar atividade física .</h4>
+<h4> 03 - Eficiência dos usuários em registrar atividade física.</h4>
 
 Abra o aplicativo e registre sua atividade física.
 

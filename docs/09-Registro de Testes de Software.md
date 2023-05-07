@@ -92,4 +92,4 @@ https://user-images.githubusercontent.com/100742971/236596527-4bdaa986-e976-4ca8
 
 ## Avaliação
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+Os testes de software mostraram que os requisitos priorizados foram atendidos, funcionando como planejado. Para as próximas iterações, serão acrescentados o gerenciamento do cadastro do usuário na página Perfil, padrinização dos campos de cadastrode informações (data e hora) e validação dos campos nas páginas de cadastros de remédios, consumode água, atividade fícida e chack-up.

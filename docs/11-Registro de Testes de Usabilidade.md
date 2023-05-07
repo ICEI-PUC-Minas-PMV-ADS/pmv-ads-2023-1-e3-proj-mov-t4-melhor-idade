@@ -55,7 +55,7 @@ https://user-images.githubusercontent.com/100742971/236651557-adaeb039-7ac5-485e
 
 
 
-<h4> 03.1 - Eficiência dos usuários em editar atividade física .</h4>
+<h4> 03.1 - Eficiência dos usuários em editar atividade física.</h4>
 
 Abra o aplicativo e altere o registro da atividade física. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 

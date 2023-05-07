@@ -8,7 +8,7 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 |--------------|-------|-----------------------|-------------------------------|
 | 01 |  30   |    Superior incompleto    |     Estudante            |
 | 02 | 61 |  Superior completo     | Arquiteta |   
-| 03 |  72  | Superior incompleto |  Uber    |
+| 03 |  72  | Superior incompleto |  Motorista de aplicativo (Uber)   |
 | 04 | 50   | Superior completo  |  Cientista Político     |
 | 05| 28 | Superior completo   | Médico |
 | 06 | 32  | Superior completo   | Designer |
@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/100742971/236651561-de37d7d6-7f6f-433c
 
 
 
-<h4> 04 -Eficiência dos usuários em inserir o último e próximo check-up .</h4>
+<h4> 04 -Eficiência dos usuários em inserir o último e próximo check-up.</h4>
 
 Abra o aplicativo e registre a data do último e próximo check-up.
 
@@ -79,7 +79,7 @@ https://user-images.githubusercontent.com/100734910/236640074-913ab7c8-1642-4eda
 
 
 
-<h4> 04.1 -Eficiência dos usuários em editar o último e próximo check-up .</h4>
+<h4> 04.1 -Eficiência dos usuários em editar o último e próximo check-up.</h4>
 
 Abra o aplicativo e altere o registro da data do check up que você cadastrou. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 
@@ -96,7 +96,7 @@ Abra o aplicativo e registre o nome e a dosagem de um medicamento que tomou dura
 
 https://user-images.githubusercontent.com/81182674/236075749-863d06d7-40d2-45f2-a0de-0b9d154c5146.MP4
 
-<h4> 05.1 -Eficiência dos usuários em editar nome(s) e a dosagem do(s) medicamento(s) que está tomando .</h4>
+<h4> 05.1 -Eficiência dos usuários em editar nome(s) e a dosagem do(s) medicamento(s) que está tomando.</h4>
 
 Abra o aplicativo e altere a dosagem do medicamento que você cadastrou. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 

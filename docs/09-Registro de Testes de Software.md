@@ -98,6 +98,15 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-i
 
 https://user-images.githubusercontent.com/100447878/235490302-407e00b8-76df-4aa5-91bb-fb9942b37a84.mp4
 
+
+**Fluxo Alternativo 1**
+
+<p>Usuário não preencheu todos os campos obrigatórios.</p>
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100447878/a1620dff-224e-4d64-b1eb-ebf566f81989
+
+
 <h3>CT-06 – Registro de atividade física</h3>
 <p>Registro, exclusão e atualização de atividade física.</p>
 

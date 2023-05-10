@@ -48,6 +48,15 @@ https://user-images.githubusercontent.com/98122346/235966303-20c9e5d8-c1ae-4dae-
 https://user-images.githubusercontent.com/98122346/235966966-0b3609be-ede1-4ce9-894a-535215fbd368.mp4
 
 
+**Fluxo Alternativo 2**
+<p>Usuário não preencheu todos os campos obrigatórios</p>
+
+
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/98122346/ed8914f0-6479-43b6-b679-40f3abab3d69
+
+
 
 <h3>CT-03 – Registro Check-up</h3>
 <p>Registro, atualização e exclusão de check-up.</p>

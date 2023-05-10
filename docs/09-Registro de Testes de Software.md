@@ -73,6 +73,14 @@ https://user-images.githubusercontent.com/100734910/236642213-0a55b72f-76a3-4cc0
 
 https://user-images.githubusercontent.com/81182674/235951724-540e55d5-a958-4a68-8f5d-29ed6080b86b.MP4
 
+**Fluxo Alternativo 1**
+
+<p>Usuário não preencheu todos os campos obrigatórios.</p>
+
+
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/81182674/68435c55-3495-4c9f-b9a0-6a1017359163
 
 
 

@@ -82,7 +82,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-006| A aplicação móvel deve permitir ao usuário registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo.   | MÉDIA |
 |RF-007| A aplicação móvel deve permitir ao usuário registar a data do último check-up e a data aproximada do próximo.   | MÉDIA |
 |RF-008| A aplicação móvel deve permitir que o usuário compartilhe as informações registradas na aplicação.   | ALTA |
-
+|RF-009| A aplicação móvel deve disponibilizar intruções para a utilização do aplicativo.  | MÉDIA |
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |

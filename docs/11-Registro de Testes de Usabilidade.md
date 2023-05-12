@@ -18,6 +18,7 @@ Relatório do formulário
 | 04 | 50   | Superior completo  |  Cientista Político     |
 | 05| 28 | Superior completo   | Médico |
 | 06 | 32  | Superior completo   | Designer |
+| 07 | 59 | Superior incompleto   | Artesã |
 
 
 
@@ -127,9 +128,19 @@ Abra o aplicativo e altere quantos copos de água ingeriu durante o dia. Após e
 https://user-images.githubusercontent.com/100447878/235955331-d8bf1c4f-418e-4bd7-a33e-990e82592655.mp4
 
 
+<h3>Objetivos</h3>
+
+<h4> 07 - Eficiência dos usuários em utilizar a instruções de uso da aplicação móvel.</h4>
+
+Abra o aplicativo e selecione a opção de instrução de uso.
 
 
 
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100734910/9f190832-9ce9-479f-af92-b0976a9b2191
+
+
+
+Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 
 
 

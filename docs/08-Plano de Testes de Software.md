@@ -19,11 +19,11 @@ Apresentamos abaixo os cenários de testes elaborados para a realização dos te
 |Critério de Êxito | - O login foi realizado com sucesso. |
 |Fluxo Alternativo | **Fluxo Alternativo 1:** <br> - Usuário inseriu um e-mail ou senha inválidos <br> - Mensagem de alerta: "E-mail ou senha inválidos!" <br> - Deverá inserir uma senha e/ou e-mail válido <br>**Fluxo Alternativo 2:** <br> - Usuário não preencheu todos os campos obrigatórios <br> - Mensagem de alerta: Favor preencher os campos obrigatórios<br> - Deverá preencher corretamente todos os campos obrigatórios para continuar. |
 |  	|  	|
-| **Caso de Teste** 	| **CT-03 – Gerenciar Conta** 	|
-|	Requisito Associado 	| RF-003 - A aplicação móvel deve permitir ao usuário cadastrado gerenciar sua conta.  |
-| Objetivo do Teste 	| Verificar se o usuário consegue gerenciar sua conta. |
-| Passos 	| - Acessar o aplicativo móvel <br> - Efetuar o login na tela inicial <br> - Acessar “Perfil” <br> - Clicar no botão “Gerenciar conta/Editar” <br> - Salvar alterações em “Salvar” |
-|Critério de Êxito | - O usuário consegue gerenciar conta. |
+| **Caso de Teste** 	| **CT-03 – Sair da conta** 	|
+|	Requisito Associado 	| RF-003 -A aplicação móvel deve permitir ao usuário cadastrado sair da sua conta.  |
+| Objetivo do Teste 	| Verificar se o usuário consegue sair de sua conta. |
+| Passos 	| - Acessar o aplicativo móvel <br> - Efetuar o login na tela inicial <br> - Acessar “Perfil” <br> - Clicar no botão “Sair da conta” |
+|Critério de Êxito | - O usuário consegue sair de sua conta. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-04 – Registro de medicamentos** 	|
 |	Requisito Associado 	| RF-004 - A aplicação móvel deve permitir ao usuário inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando.  |

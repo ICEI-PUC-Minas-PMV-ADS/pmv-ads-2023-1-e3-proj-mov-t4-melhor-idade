@@ -10,7 +10,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 |------|-----------------------------------------|----|
 |RF-001| A aplicação móvel deve permitir ao usuário cadastrar uma conta. | Register.js / auth.services.js  | 
 |RF-002| A aplicação móvel deve permitir ao usuário cadastrado logar em sua conta. | Login.js /auth.services.js /webapi.services.js  | 
-|RF-003| A aplicação móvel deve permitir ao usuário cadastrado sair da sua conta.  |  |
+|RF-003| A aplicação móvel deve permitir ao usuário cadastrado sair da sua conta.  |Perfil.js / perfils.services.js  |
 |RF-004| A aplicação móvel deve permitir ao usuário inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando.   | Remedios.js / RemediosCadastro.js / remedios.services.js |
 |RF-005| A aplicação móvel deve permitir ao usuário registrar a quantidade de água que tomou durante o dia. | Agua.js / AguaRegistro.js / aguas.services.js |
 |RF-006| A aplicação móvel deve permitir ao usuário registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo.|Atividade.js / AtividadeRegistro.js / atividades.services.js   |

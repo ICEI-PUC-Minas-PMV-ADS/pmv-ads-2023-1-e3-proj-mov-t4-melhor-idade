@@ -60,7 +60,7 @@ Apresentamos abaixo os cenários de testes elaborados para a realização dos te
 |Critério de Êxito | - Relatório compartilhado com sucesso.   |
 |  	|  	|
 | **Caso de Teste** 	| **CT-09 – Instrução** 	|
-|	Requisito Associado 	| |RF-009| A aplicação móvel deve disponibilizar intruções para a utilização do aplicativo. 
+|	Requisito Associado 	| RF-009 -A aplicação móvel deve disponibilizar intruções para a utilização do aplicativo. 
 | Objetivo do Teste 	| Verificar se o usuário consegue utilizar a funcionalidade de instrução de uso.  |
 | Passos 	| **Relatório geral:** <br> - Efetuar o login na tela inicial <br> - Acessar “Atividade Física/Remédios/Check-up/Água” <br> - Clicar no ícone de instrução de uso <br> 
 |Critério de Êxito | - Instrução de uso informada com sucesso.   |

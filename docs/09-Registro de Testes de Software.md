@@ -114,7 +114,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-i
 
 https://user-images.githubusercontent.com/100742971/236596527-4bdaa986-e976-4ca8-9f3d-f9883d208723.mp4
 
-<h3>CT-06 – Instrução de uso</h3>
+<h3>CT-09 – Instrução de uso</h3>
 <p>Demonstração do uso da instrução das telas.</p>
 
 

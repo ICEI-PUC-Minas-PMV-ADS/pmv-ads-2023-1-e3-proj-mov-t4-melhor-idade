@@ -112,7 +112,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 O diagrama contempla as principais ligações previstas entre casos de uso e atores, detalhando os Requisitos Funcionais da aplicação interativa.
 
-![image](https://user-images.githubusercontent.com/100734910/228106384-d23ff522-9f08-4c46-a06a-4adc3792fbd1.png)
+![Diagrama em branco](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100734910/20d8d556-c525-41d9-90f0-5c1d1b493ed9)
 
 
 

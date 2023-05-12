@@ -15,7 +15,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 |RF-005| A aplicação móvel deve permitir ao usuário registrar a quantidade de água que tomou durante o dia. | Agua.js / AguaRegistro.js / aguas.services.js |
 |RF-006| A aplicação móvel deve permitir ao usuário registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo.|Atividade.js / AtividadeRegistro.js / atividades.services.js   |
 |RF-007| A aplicação móvel deve permitir ao usuário registrar a data do último check-up e a data aproximada do próximo. |   Checkup.js /CheckupRegistro.js  checkups.services.js |
-|RF-008| A aplicação móvel deve permitir que o usuário compartilhe as informações registradas na aplicação.   |  |
+|RF-008| A aplicação móvel deve permitir que o usuário compartilhe as informações registradas na aplicação.   | AguaRegistro.js / Remedios.js / Atividade.js / Checkup.js |
 |RF-009| A aplicação móvel deve disponibilizar intruções para a utilização do aplicativo.  |  AguaRegistro.js / Remedios.js /  Atividade.js /   Checkup.js |
 
 # Instruções de acesso

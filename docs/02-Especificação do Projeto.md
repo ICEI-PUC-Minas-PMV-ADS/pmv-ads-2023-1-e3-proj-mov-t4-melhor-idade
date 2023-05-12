@@ -76,7 +76,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| A aplicação móvel deve permitir ao usuário cadastrar uma conta. | ALTA | 
 |RF-002| A aplicação móvel deve permitir ao usuário cadastrado logar em sua conta. | ALTA | 
-|RF-003| A aplicação móvel deve permitir ao usuário cadastrado gerenciar sua conta. | BAIXA | 
+|RF-003| A aplicação móvel deve permitir ao usuário cadastrado sair da sua conta. | BAIXA | 
 |RF-004| A aplicação móvel deve permitir ao usuário inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando.   | MÉDIA |
 |RF-005| A aplicação móvel deve permitir ao usuário registrar a quantidade de água que tomou durante o dia.   | BAIXA |
 |RF-006| A aplicação móvel deve permitir ao usuário registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo.   | MÉDIA |

@@ -56,19 +56,7 @@ https://user-images.githubusercontent.com/98122346/235966966-0b3609be-ede1-4ce9-
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/98122346/ed8914f0-6479-43b6-b679-40f3abab3d69
 
-
-
-<h3>CT-03 – Registro Check-up</h3>
-<p>Registro, atualização e exclusão de check-up.</p>
-
-
-
-
-
-https://user-images.githubusercontent.com/100734910/236642213-0a55b72f-76a3-4cc0-bf0e-dee31bede8f2.mp4
-
-
-
+<h3>CT-03 – Sair da conta</h3>
 
 
 
@@ -113,6 +101,17 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-i
 
 
 https://user-images.githubusercontent.com/100742971/236596527-4bdaa986-e976-4ca8-9f3d-f9883d208723.mp4
+
+<h3>CT-07 – Registro Check-up</h3>
+<p>Registro, atualização e exclusão de check-up.</p>
+
+
+
+
+
+https://user-images.githubusercontent.com/100734910/236642213-0a55b72f-76a3-4cc0-bf0e-dee31bede8f2.mp4
+
+<h3>CT-08 – Compartilhar informações</h3>
 
 <h3>CT-09 – Instrução de uso</h3>
 <p>Demonstração do uso da instrução das telas.</p>

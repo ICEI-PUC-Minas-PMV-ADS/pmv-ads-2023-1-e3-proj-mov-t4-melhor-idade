@@ -6,7 +6,7 @@ Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do proje
 
 ## Título do Projeto
 
-Melhoridade: cuidando do seu bem estar.
+Melhor Idade: cuidando do seu bem-estar.
 
 ## Identidade Visual (Marca, Design)
 

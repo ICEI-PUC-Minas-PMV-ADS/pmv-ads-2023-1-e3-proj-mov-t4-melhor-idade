@@ -10,7 +10,7 @@ Melhor Idade: cuidando do seu bem-estar.
 
 ## Identidade Visual (Marca, Design)
 
-Cores:
+Cores: RGB #4169E1, #c7e6fd, #87CEEB, #fff, #000.
 
 Font-family: Arial, Helvetica, sans-serif e cursive.
 

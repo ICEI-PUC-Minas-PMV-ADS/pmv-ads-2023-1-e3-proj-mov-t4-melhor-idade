@@ -16,5 +16,8 @@ Font-family:
 
 #### Marca
 
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100447878/41341a38-1f8f-4c07-a178-98dd4eddb3b0" alt="Logotipo em formato de estrelas amarelas" width="300" height="300" >
+
+
 ## Conjunto de Slides (Estrutura)
 

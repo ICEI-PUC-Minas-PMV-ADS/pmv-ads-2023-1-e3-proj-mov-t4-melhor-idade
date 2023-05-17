@@ -22,3 +22,10 @@ Senha: 12345
 - Criação das páginas Login, Cadastro e Home;
 - Criação das páginas de cadastro e registros das páginas Remédios, Água, Atividade física e Check-up;
 - Navegação entre telas.
+
+### [0.3.0] - 04/06/2023
+#### Adicionado
+- Logout de usuário na página Perfil;
+- Padronização dos campos de cadastro de informações (data e hora);
+- Validação dos campos nas páginas de cadastros;
+- Compartilhamento de relatórios.

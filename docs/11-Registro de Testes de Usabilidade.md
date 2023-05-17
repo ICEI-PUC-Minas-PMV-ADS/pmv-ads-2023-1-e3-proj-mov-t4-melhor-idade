@@ -19,6 +19,7 @@ Relatório do formulário
 | 05| 28 | Superior completo   | Médico |
 | 06 | 32  | Superior completo   | Designer |
 | 07 | 59 | Superior incompleto   | Artesã |
+| 08 | 72| Superior incompleto  |Aposentada |
 
 
 
@@ -141,6 +142,17 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-i
 
 
 Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
+
+
+<h4> 04.1 -Eficiência dos usuários em visualizar o(s) dado(s) na página de perfil e deslogar da conta .</h4>
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100734910/542e6bc0-26d2-491f-9271-44e13aab739a
+
+
+
+
+Abra o aplicativo e clique no icone de perfil, visualize os seus dados e aperte sair da conta. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 
 
 

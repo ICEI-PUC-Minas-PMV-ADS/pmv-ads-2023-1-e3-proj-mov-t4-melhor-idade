@@ -117,6 +117,10 @@ https://user-images.githubusercontent.com/100734910/236642213-0a55b72f-76a3-4cc0
 
 <h3>CT-08 – Compartilhar informações</h3>
 
+<h4>Relatório geral</h4>
+
+<h4>Relatório individual</h4>
+
 <h3>CT-09 – Instrução de uso</h3>
 <p>Demonstração do uso da instrução das telas.</p>
 

@@ -57,7 +57,7 @@ Apresentamos abaixo os cenários de testes elaborados para a realização dos te
 |	Requisito Associado 	| RF-008 - A aplicação móvel deve permitir que o usuário compartilhe as informações registradas na aplicação. |
 | Objetivo do Teste 	| Verificar se o usuário consegue compartilhar informações registradas no aplicativo.  |
 | Passos 	| **Relatório geral:** <br> - Efetuar o login na tela inicial <br> - Acessar “Perfil” <br> - Clicar no ícone de compartilhar <br> - Selecionar a forma de compartilhamento <br> **Relatório individual** <br> - Efetuar o login na tela inicial <br> - Acessar qual relatório deseja compartilhar (Consumo de água, atividades físicas ou check-up) <br> - Na parte de relatórios , clicar no ícone de compartilhar <br> - Selecionar a forma de compartilhamento  |
-|Critério de Êxito | - Relatório compartilhado com sucesso.   |
+|Critério de Êxito | Relatório compartilhado com sucesso.   |
 |  	|  	|
 | **Caso de Teste** 	| **CT-09 – Instrução de uso** 	|
 |	Requisito Associado 	| RF-009 -A aplicação móvel deve disponibilizar intruções para a utilização do aplicativo. 

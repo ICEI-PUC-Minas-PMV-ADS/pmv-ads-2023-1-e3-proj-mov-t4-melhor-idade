@@ -5,7 +5,7 @@
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 
 <h3>CT-01 – Cadastro</h3>
-<p>Usuário realizando o cadastro com sucesso</p>
+<p>Usuário realizando o cadastro com sucesso.</p>
 
 
 
@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/100734910/236643631-94aad33f-3e6b-405f
 
 
 <h3>CT-02 – Efetuar login</h3>
-<p>Usuário cadastrado consegue logar em sua conta</p>
+<p>Usuário cadastrado consegue logar em sua conta.</p>
 
 
 
@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/98122346/235966303-20c9e5d8-c1ae-4dae-
 
 
 **Fluxo Alternativo 1**
-<p>Usuário inseriu um e-mail e/ou senha inválidos</p>
+<p>Usuário inseriu um e-mail e/ou senha inválidos.</p>
 
 
 
@@ -49,7 +49,7 @@ https://user-images.githubusercontent.com/98122346/235966966-0b3609be-ede1-4ce9-
 
 
 **Fluxo Alternativo 2**
-<p>Usuário não preencheu todos os campos obrigatórios</p>
+<p>Usuário não preencheu todos os campos obrigatórios.</p>
 
 
 

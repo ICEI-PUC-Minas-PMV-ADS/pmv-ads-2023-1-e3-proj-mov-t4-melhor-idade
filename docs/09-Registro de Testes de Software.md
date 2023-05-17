@@ -57,6 +57,10 @@ https://user-images.githubusercontent.com/98122346/235966966-0b3609be-ede1-4ce9-
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/98122346/ed8914f0-6479-43b6-b679-40f3abab3d69
 
 <h3>CT-03 – Sair da conta</h3>
+<p>Usuário cadastrado consegue sair da sua conta.</p>
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100734910/cb4799ee-cd0c-4e54-97b8-3c42caa49a3c
 
 
 

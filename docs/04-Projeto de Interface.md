@@ -101,7 +101,7 @@ A Tela de Cadastro de Remédios apresenta um pequeno formulário onde o usuário
 ![Captura de tela 2023-05-18 101616](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/81182674/a924d644-44e1-46cf-8f06-af6e1095d25a)
 
 
-Figura 22 - Tela de cadastro de remédios
+Figura 23 - Tela de cadastro de remédios
 
 <hr>
 
@@ -114,7 +114,7 @@ A Tela de Ingestão de Água apresenta uma lista com a quantidade de copos que o
 ![Captura de tela 2023-05-18 101843](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/81182674/862a095d-d7b8-4f50-9747-1295364ecc3f)
 
 
-Figura 23 - Tela de ingestão de água
+Figura 24 - Tela de ingestão de água
  
  <hr>
  
@@ -126,7 +126,7 @@ A Tela de Cadastro de Ingestão de Água apresenta um pequeno formulário, onde 
 
 
 
-Figura 23 - Tela de cadastro de ingestão de água
+Figura 25 - Tela de cadastro de ingestão de água
  
  <hr> 
  
@@ -138,7 +138,7 @@ A Tela de atividade física apresenta uma lista com as atividades praticadas pel
 ![Captura de tela 2023-05-18 102612](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/81182674/ea9eeb3a-18b1-47fe-bf72-b8d8462e163b)
 
 
-Figura 24 - Tela de atividade física
+Figura 26 - Tela de atividade física
 
 <hr>
 
@@ -150,7 +150,7 @@ A Tela de cadastro de atividade física apresenta um pequeno formulário, onde o
 ![Captura de tela 2023-05-18 102851](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/81182674/02310ef2-a2c5-4e89-8005-566fdf05b269)
 
 
-Figura 24 - Tela de cadastro de atividade física
+Figura 27 - Tela de cadastro de atividade física
 
 <hr>
 
@@ -162,7 +162,7 @@ A Tela de check-up apresenta uma lista com o útlimo check-up realizado pelo usu
 
  
  
- Figura 25 - Tela de check-up
+ Figura 28 - Tela de check-up
 
 <hr>
 
@@ -175,7 +175,7 @@ A Tela cadastro de check-up apresenta um pequeno formulário, onde o usuário in
 
  
  
- Figura 25 - Tela de cadastro de check-up
+ Figura 29 - Tela de cadastro de check-up
 
 <hr>
 

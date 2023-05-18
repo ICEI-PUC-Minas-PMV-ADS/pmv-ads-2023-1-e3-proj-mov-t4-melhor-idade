@@ -7,4 +7,4 @@ Layout padrão da aplicação que será utilizado em todas as páginas com a def
 
 ![template-inicial](https://user-images.githubusercontent.com/98122346/228010261-58686b37-c758-4023-99d6-6e1c038ee23a.png)
 
-Figura 33 - Layout padrão da aplicação e paleta de cores a ser utilizada
+Figura 36 - Layout padrão da aplicação e paleta de cores a ser utilizada

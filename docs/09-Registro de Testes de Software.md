@@ -119,7 +119,13 @@ https://user-images.githubusercontent.com/100734910/236642213-0a55b72f-76a3-4cc0
 
 <h4>Relatório geral</h4>
 
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100447878/d0d6bb9d-9a58-49c8-b432-a16c0e4294fd
+
 <h4>Relatório individual</h4>
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100447878/1016b507-d273-44d1-9c71-94f6cdedd4a3
+
+
 
 <h3>CT-09 – Instrução de uso</h3>
 <p>Demonstração do uso da instrução das telas.</p>

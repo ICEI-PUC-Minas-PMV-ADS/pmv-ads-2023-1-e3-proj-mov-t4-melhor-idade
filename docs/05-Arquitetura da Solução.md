@@ -10,7 +10,7 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 ![Melhor Idade- Classes  (2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100734910/02178d7f-5344-4d02-a28c-5bb68a5f58d9)
 
-Figura 27 - Diagrama de classes
+Figura 30 - Diagrama de classes
 
 ## Modelo ER
 
@@ -18,7 +18,7 @@ O Modelo ER representa através de um diagrama como as entidades se relacionam e
 
 ![Untitled Diagram](https://user-images.githubusercontent.com/100742971/228888019-93c88dd9-4a50-4392-a1ea-a389628c8deb.png)
 
-Figura 28 - Modelo entidade relacionamento
+Figura 31 - Modelo entidade relacionamento
 
 ## Esquema Relacional
 
@@ -27,7 +27,7 @@ O Esquema Relacional corresponde à representação dos dados em tabelas juntame
 ![Projeto de BD](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100447878/1d04b440-1b70-4b5d-8ee6-c023f7f73927)
 
 
-Figura 29 - Esquema relacional com as restrições de integridade
+Figura 32 - Esquema relacional com as restrições de integridade
 
 ## Modelo Físico
 
@@ -46,13 +46,13 @@ As tecnologias listadas abaixo serão utilizadas para a implementação da solu�
 
 ![Interacao](https://user-images.githubusercontent.com/100447878/227193733-c98bb22a-0916-4cce-b06c-5e0e3e3a8e1a.gif)
 
-Figura 30 - Interação do usuário com o sistema
+Figura 33 - Interação do usuário com o sistema
 
 ## Qualidade de Software
 
 ![Beige Minimalist Timeline Diagram Graph (1)](https://user-images.githubusercontent.com/100734910/224740162-b1e98ace-0fb5-46f1-af7a-52edf3474eea.png)
 
-Figura 31 - Qualidade do software
+Figura 34 - Qualidade do software
 
 ### Subcaracterísticas:
 > - Completude funcional: O software efetivamente possibilita executar as funções que são apropriadas.<br>
@@ -73,4 +73,4 @@ Figura 31 - Qualidade do software
 
 ![image](https://user-images.githubusercontent.com/100734910/227335601-7396da59-8913-4d50-9d8f-d97cb93a8008.png)
 
-Figura 32 - Métricas de software
+Figura 35 - Métricas de software

@@ -33,8 +33,8 @@ Abra o aplicativo e tente cadastrar uma conta. Após este procedimento, responda
 https://user-images.githubusercontent.com/100734910/236641194-9499cd8d-3ab3-407e-8f38-1157cad149dc.mp4
 
 
-<h4> 02 - Eficiência dos usuários em fazer login em suas contas.</h4>
-<h4> Entender os principais atritos quando os usuários tentam logar em sua conta.</h4>
+<h4> 02 - Entender os principais atritos quando os usuários tentam logar em sua conta.</h4>
+<h4>Eficiência dos usuários em fazer login em suas contas.</h4>
 
 Abra o aplicativo e tente entrar em sua conta. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 

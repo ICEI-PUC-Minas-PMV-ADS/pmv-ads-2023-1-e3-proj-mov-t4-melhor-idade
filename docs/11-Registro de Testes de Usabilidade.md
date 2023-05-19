@@ -69,62 +69,46 @@ Abra o aplicativo e registre quantos copos de água ingeriu durante o dia.
 
 https://user-images.githubusercontent.com/100447878/235952598-d829dcb0-877b-4fcd-a37c-5b251f16a610.mp4
 
-<h4> 05.1 -Eficiência dos usuários em editar o registro da quantidade de água que tomou durante o dia.</h4>
+<h4> 05.1 - Eficiência dos usuários em editar o registro da quantidade de água que tomou durante o dia.</h4>
 
 Abra o aplicativo e altere quantos copos de água ingeriu durante o dia. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 
 https://user-images.githubusercontent.com/100447878/235955331-d8bf1c4f-418e-4bd7-a33e-990e82592655.mp4
 
-
-<h4> 03 - Eficiência dos usuários em registrar atividade física.</h4>
+<h4> 06 - Eficiência dos usuários em registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo.</h4>
+<h4> Entender os principais atritos quando os usuários querem registrar informações sobre atividades físicas.</h4>
 
 Abra o aplicativo e registre sua atividade física.
 
-
 https://user-images.githubusercontent.com/100742971/236651557-adaeb039-7ac5-485e-9085-b11f40eb5f4d.mp4
 
-
-
-
-<h4> 03.1 - Eficiência dos usuários em editar atividade física.</h4>
+<h4> 06.1 - Eficiência dos usuários em editar o registro de atividade física.</h4>
 
 Abra o aplicativo e altere o registro da atividade física. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
-
-
-
 
 https://user-images.githubusercontent.com/100742971/236651561-de37d7d6-7f6f-433c-9029-128ae34b3f28.mp4
 
 
+<h4> 07 - Eficiência dos usuários em registrar as datas do último e próximo check-ups.</h4>
+<h4> Entender os principais atritos quando os usuários querem inserir as datas do último e próximo check-ups.</h4>
 
-
-
-
-<h4> 04 -Eficiência dos usuários em inserir o último e próximo check-up.</h4>
-
-Abra o aplicativo e registre a data do último e próximo check-up.
+Abra o aplicativo e registre as datas do último e próximo check-ups.
 
 https://user-images.githubusercontent.com/100734910/236640074-913ab7c8-1642-4eda-aba1-4f97e6838f4c.mp4
 
 
-
-<h4> 04.1 -Eficiência dos usuários em editar o último e próximo check-up.</h4>
+<h4> 07.1 - Eficiência dos usuários em editar as datas do último e próximo check-ups.</h4>
 
 Abra o aplicativo e altere o registro da data do check up que você cadastrou. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 
 https://user-images.githubusercontent.com/100734910/236640071-2e403275-d40a-4b9a-bfa8-126a163a0915.mp4
 
+<h4> 08 - Eficiência dos usuários em compartilhar relatórios.</h4>
+<h4> Entender os principais atritos quando os usuários querem compartilhar relatórios.</h4>
 
+<h4> 09 - Eficiência dos usuários em utilizar as instruções de uso da aplicação móvel.</h4>
+<h4> Entender os principais atritos quando os usuários querem acessar as instruções de uso da aplicação móvel.</h4>
 
-
-<h4> 07 - Eficiência dos usuários em utilizar a instruções de uso da aplicação móvel.</h4>
-
-Abra o aplicativo e selecione a opção de instrução de uso.
-
-
+Abra o aplicativo e selecione a opção de instrução de uso. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100734910/9f190832-9ce9-479f-af92-b0976a9b2191
-
-
-
-Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.

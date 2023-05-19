@@ -22,9 +22,6 @@ Relatório do formulário
 | 08 | 72| Superior incompleto  |Aposentada |
 
 
-
-
-
 <h3>Objetivos</h3>
 
 <h4> 01 - Entender os principais atritos quando os usuários tentam cadastrar uma conta.</h4>
@@ -45,12 +42,26 @@ Abra o aplicativo e tente entrar em sua conta. Após este procedimento, responda
 https://user-images.githubusercontent.com/98122346/236645987-6a2f7903-8009-40e2-aae9-f8389469257c.mp4
 
 
-<h4> 3 - Entender os principais atritos quando os usuários querem sair de sua conta.</h4>
+<h4> 03 - Entender os principais atritos quando os usuários querem sair de sua conta.</h4>
 <h4> Eficiência dos usuários em visualizar seus dados na página de perfil e deslogar da conta.</h4>
 
-Abra o aplicativo e, após o login, tente sair de sua conta. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
+Abra o aplicativo e clique no ícone do perfil, visualize os seus dados e aperte sair da conta. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100734910/542e6bc0-26d2-491f-9271-44e13aab739a
+
+<h4> 04 - Eficiência dos usuários em inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando.</h4>
+<h4> Entender os principais atritos quando os usuários querem registrar informações sobre o consumo de remédios.</h4>
+
+Abra o aplicativo e registre o nome e a dosagem de um medicamento que tomou durante o dia.
+
+https://user-images.githubusercontent.com/81182674/236075749-863d06d7-40d2-45f2-a0de-0b9d154c5146.MP4
+
+<h4> 04.1 -Eficiência dos usuários em editar nome(s) e a dosagem do(s) medicamento(s) que está tomando.</h4>
+
+Abra o aplicativo e altere a dosagem do medicamento que você cadastrou. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
+
+https://user-images.githubusercontent.com/81182674/236075906-6dd91909-9acb-4800-aee0-c51d22bd9d2b.MP4
+
 
 <h4> 03 - Eficiência dos usuários em registrar atividade física.</h4>
 
@@ -93,21 +104,11 @@ https://user-images.githubusercontent.com/100734910/236640071-2e403275-d40a-4b9a
 
 
 
-<h4> 05 -Eficiência dos usuários em inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando.</h4>
-
-Abra o aplicativo e registre o nome e a dosagem de um medicamento que tomou durante o dia.
 
 
 
-https://user-images.githubusercontent.com/81182674/236075749-863d06d7-40d2-45f2-a0de-0b9d154c5146.MP4
-
-<h4> 05.1 -Eficiência dos usuários em editar nome(s) e a dosagem do(s) medicamento(s) que está tomando.</h4>
-
-Abra o aplicativo e altere a dosagem do medicamento que você cadastrou. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 
 
-
-https://user-images.githubusercontent.com/81182674/236075906-6dd91909-9acb-4800-aee0-c51d22bd9d2b.MP4
 
 
 
@@ -137,19 +138,3 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-i
 
 
 Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
-
-
-<h4> 04.1 -Eficiência dos usuários em visualizar o(s) dado(s) na página de perfil e deslogar da conta .</h4>
-
-
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100734910/542e6bc0-26d2-491f-9271-44e13aab739a
-
-
-
-
-Abra o aplicativo e clique no icone de perfil, visualize os seus dados e aperte sair da conta. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
-
-
-
-
-

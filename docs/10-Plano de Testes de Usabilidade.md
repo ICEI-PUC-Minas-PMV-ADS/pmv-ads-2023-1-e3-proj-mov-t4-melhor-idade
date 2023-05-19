@@ -1,6 +1,7 @@
 # Plano de Testes de Usabilidade
 ![image](https://user-images.githubusercontent.com/100734910/227314741-1b62b06a-0929-4cf9-a8e3-47364c4bc894.png)
 
+Figura 37 - Plano de testes de usabilidade.
 
 ## Planejamento
 

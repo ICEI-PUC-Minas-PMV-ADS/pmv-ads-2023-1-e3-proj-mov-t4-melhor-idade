@@ -45,6 +45,12 @@ Abra o aplicativo e tente entrar em sua conta. Após este procedimento, responda
 https://user-images.githubusercontent.com/98122346/236645987-6a2f7903-8009-40e2-aae9-f8389469257c.mp4
 
 
+<h4> 3 - Entender os principais atritos quando os usuários querem sair de sua conta.</h4>
+<h4> Eficiência dos usuários em visualizar seus dados na página de perfil e deslogar da conta.</h4>
+
+Abra o aplicativo e, após o login, tente sair de sua conta. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100734910/542e6bc0-26d2-491f-9271-44e13aab739a
 
 <h4> 03 - Eficiência dos usuários em registrar atividade física.</h4>
 

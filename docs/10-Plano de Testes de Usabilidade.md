@@ -16,7 +16,8 @@ Figura 37 - Plano de testes de usabilidade.
 |05| Eficiência dos usuários em registrar a quantidade de água que tomou durante o dia. |
 |06| Eficiência dos usuários em registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo.  |
 |07| Eficiência dos usuários em registrar o próximo check-up.  |
-|08| Eficiência dos usuários em compartilhar informações do perfil e check-up |
+|08| Eficiência dos usuários em compartilhar relatórios |
+|09| Eficiência dos usuários em utilizar as instruções de uso da aplicação móvel |
 
 ### Perfil para testes:
 

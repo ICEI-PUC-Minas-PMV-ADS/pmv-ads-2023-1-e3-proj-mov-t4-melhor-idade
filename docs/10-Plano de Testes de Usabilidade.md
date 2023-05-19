@@ -11,7 +11,7 @@ Figura 37 - Plano de testes de usabilidade.
 |------|-----------------------------------------|
 |01| Entender os principais atritos quando os usuários tentam cadastrar uma conta. |
 |02| Entender os principais atritos quando os usuários tentam logar em sua conta. |
-|03| Entender os principais atritos quando os usuários querem gerenciar sua conta. |
+|03| Entender os principais atritos quando os usuários querem sair de sua conta. |
 |04| Eficiência dos usuários em inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando. |
 |05| Eficiência dos usuários em registrar a quantidade de água que tomou durante o dia. |
 |06| Eficiência dos usuários em registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo.  |

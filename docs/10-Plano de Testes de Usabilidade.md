@@ -15,7 +15,7 @@ Figura 37 - Plano de testes de usabilidade.
 |04| Eficiência dos usuários em inserir o(s) nome(s) e a dosagem do(s) medicamento(s) que está tomando. |
 |05| Eficiência dos usuários em registrar a quantidade de água que tomou durante o dia. |
 |06| Eficiência dos usuários em registrar qual(is) atividade(s) física(s) fez durante o dia e por quanto tempo.  |
-|07| Eficiência dos usuários em registrar o próximo check-up.  |
+|07| Eficiência dos usuários em registrar as datas do último e próximo check-ups |
 |08| Eficiência dos usuários em compartilhar relatórios |
 |09| Eficiência dos usuários em utilizar as instruções de uso da aplicação móvel |
 

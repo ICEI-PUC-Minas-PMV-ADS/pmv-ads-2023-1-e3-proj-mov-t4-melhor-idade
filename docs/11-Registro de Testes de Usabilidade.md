@@ -99,7 +99,7 @@ https://user-images.githubusercontent.com/100734910/236640074-913ab7c8-1642-4eda
 
 <h4> 07.1 - Eficiência dos usuários em editar as datas do último e próximo check-ups.</h4>
 
-Abra o aplicativo e altere o registro da data do check up que você cadastrou. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
+Abra o aplicativo e altere o registro da data do check-up que você cadastrou. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 
 https://user-images.githubusercontent.com/100734910/236640071-2e403275-d40a-4b9a-bfa8-126a163a0915.mp4
 

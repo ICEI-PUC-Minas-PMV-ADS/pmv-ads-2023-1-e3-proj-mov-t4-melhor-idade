@@ -26,7 +26,7 @@ Relatório do formulário
 
 <h4> 01 - Entender os principais atritos quando os usuários tentam cadastrar uma conta.</h4>
 
-<h4> Eficiência dos usuários em inserir o(s) seu(s) os dados(s) pessoais na página de cadastro.</h4>
+<h4> Eficiência dos usuários em inserir os seus os dados pessoais na página de cadastro.</h4>
 
 Abra o aplicativo e tente cadastrar uma conta. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
 

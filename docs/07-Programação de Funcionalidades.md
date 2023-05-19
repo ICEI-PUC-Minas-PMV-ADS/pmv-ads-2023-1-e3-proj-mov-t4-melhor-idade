@@ -20,7 +20,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 # Instruções de acesso
 
-Para ter acesso a aplicação móvel, <a href="https://snack.expo.dev/@procopiodaiane/atual">clique aqui</a>.
+Para ter acesso a aplicação móvel, <a href="https://snack.expo.dev/@procopiodaiane/melhor-idade">clique aqui</a>.
 
 Para fazer o login no sistema, utilize os dados abaixo:
 

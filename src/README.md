@@ -28,4 +28,5 @@ Senha: 12345
 - Logout de usuário na página Perfil;
 - Padronização dos campos de cadastro de informações (data e hora);
 - Validação dos campos nas páginas de cadastros;
+- Botão com instruções para o uso da aplicação móvel;
 - Compartilhamento de relatórios.

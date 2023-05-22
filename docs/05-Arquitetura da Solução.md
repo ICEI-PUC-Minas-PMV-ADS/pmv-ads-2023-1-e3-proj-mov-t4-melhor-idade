@@ -71,6 +71,6 @@ Figura 34 - Qualidade do software
 
 ## Métricas
 
-![image](https://user-images.githubusercontent.com/100734910/227335601-7396da59-8913-4d50-9d8f-d97cb93a8008.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100734910/d956a85a-57ed-40f5-a235-04772d10b058)
 
 Figura 35 - Métricas de software

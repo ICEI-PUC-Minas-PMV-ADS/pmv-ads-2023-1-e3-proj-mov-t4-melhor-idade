@@ -106,6 +106,8 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-i
 
 https://user-images.githubusercontent.com/100742971/236596527-4bdaa986-e976-4ca8-9f3d-f9883d208723.mp4
 
+**Fluxo Alternativo 1**
+
 <h3>CT-07 – Registro Check-up</h3>
 <p>Registro, atualização e exclusão de check-up.</p>
 
@@ -132,10 +134,12 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-i
 <h3>CT-08 – Compartilhar informações</h3>
 
 <h4>Relatório geral</h4>
+<p>Compartilhamento de todas as informações registradas na aplicação móvel.</p>
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100447878/d0d6bb9d-9a58-49c8-b432-a16c0e4294fd
 
 <h4>Relatório individual</h4>
+<p>Compartilhamento das informações registradas em apenas uma página da aplicação móvel.</p>
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100447878/1016b507-d273-44d1-9c71-94f6cdedd4a3
 

@@ -107,6 +107,8 @@ https://user-images.githubusercontent.com/100734910/236640071-2e403275-d40a-4b9a
 <h4> 08 - Eficiência dos usuários em compartilhar relatórios.</h4>
 <h4> Entender os principais atritos quando os usuários querem compartilhar relatórios.</h4>
 
+Abra o aplicativo e selecione a opção de compartilhar relatório. Compatilhe também as informações registradas na página Remédios. Após este procedimento, responda ao formulário com perguntas sobre a sua opinião e satisfação em relação a aplicação Melhor Idade.
+
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100447878/777da546-20ce-4913-86d1-3e7921cb6ea5
 
 <h4> 09 - Eficiência dos usuários em utilizar as instruções de uso da aplicação móvel.</h4>

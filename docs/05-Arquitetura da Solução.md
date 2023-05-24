@@ -74,3 +74,10 @@ Figura 34 - Qualidade do software
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100734910/d956a85a-57ed-40f5-a235-04772d10b058)
 
 Figura 35 - Métricas de software
+
+#### Portabilidade
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100734910/ad179b55-077a-42dc-8c0e-2cb4a45cb5fe
+
+

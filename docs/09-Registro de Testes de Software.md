@@ -111,9 +111,19 @@ https://user-images.githubusercontent.com/100742971/236596527-4bdaa986-e976-4ca8
 
 
 
-
-
 https://user-images.githubusercontent.com/100734910/236642213-0a55b72f-76a3-4cc0-bf0e-dee31bede8f2.mp4
+
+
+**Fluxo Alternativo 1**
+
+<p>Usuário não preencheu todos os campos obrigatórios.</p>
+
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100734910/07b2791a-82a6-4c3b-a8c5-bf7c75ee9027
+
+
+
 
 <h3>CT-08 – Compartilhar informações</h3>
 

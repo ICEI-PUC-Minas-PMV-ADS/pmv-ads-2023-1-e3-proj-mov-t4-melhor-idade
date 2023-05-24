@@ -40,8 +40,8 @@ A proposta do Melhor Idade é digitalizar todo o processo de acompanhamento, con
 ### Processo 1 – Cadastro de usuário
 ![image](https://user-images.githubusercontent.com/100742971/221708499-84ffc05b-f775-41ce-8120-767b51998890.png)
 Figura 2 - Processo de cadastro de usuário
-### Processo 2 – Gerenciar Perfil
-![image](https://user-images.githubusercontent.com/100742971/221708550-e878a977-7cef-4901-ad25-6a8c3e4db801.png)
+### Processo 2 – Sair da conta
+![221708550-e878a977-7cef-4901-ad25-6a8c3e4db801](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100742971/77c5b542-fd6d-488d-a480-4210220bcf22)
 Figura 3 - Processo de gerenciamento de perfil
 ### Processo 3 – Cadastrar remédio
 ![image](https://user-images.githubusercontent.com/100742971/221708621-f0cbb818-9d2e-47d8-adc2-f65dd0b9f8fd.png)

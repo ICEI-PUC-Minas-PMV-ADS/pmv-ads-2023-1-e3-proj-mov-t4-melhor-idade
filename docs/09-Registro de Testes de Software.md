@@ -158,7 +158,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-i
 <h3>Aplicação móvel em execução, demonstrando a navegação entre telas e funcionalidades.</h3>
 
 
-https://user-images.githubusercontent.com/100447878/236676977-3d8f7b74-263f-4e34-86df-3a31e8402cae.mp4
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100447878/31d9c83e-6506-4797-8115-73c549631907
 
 
 ## Avaliação

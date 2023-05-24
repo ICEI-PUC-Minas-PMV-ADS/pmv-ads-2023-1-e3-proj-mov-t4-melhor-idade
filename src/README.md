@@ -6,7 +6,7 @@ Para ter acesso a aplicação móvel, <a href="https://snack.expo.dev/@procopiod
 
 Para fazer o login no sistema, utilize os dados abaixo:
 
-Email: daiane@ig.br
+Email: admin@melhoridade.com
 <br>
 Senha: 12345
 

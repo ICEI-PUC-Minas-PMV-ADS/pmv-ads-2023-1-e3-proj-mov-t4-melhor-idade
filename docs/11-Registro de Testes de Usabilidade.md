@@ -20,6 +20,7 @@ Relatório do formulário
 | 06 | 32  | Superior completo   | Designer |
 | 07 | 59 | Superior incompleto   | Artesã |
 | 08 | 72| Superior incompleto  |Aposentada |
+| 09 | 36| Superior completo  | Bancária |
 
 
 <h3>Objetivos</h3>

@@ -76,25 +76,18 @@ Figura 34 - Qualidade do software
 
 Figura 35 - Métricas de software
 
-## Resultados:
+## Resultados
+
+### Segurança:
+
+![Beige Minimalist Timeline Diagram Graph (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100734910/3489aa4b-cf56-42ae-b929-988e4ba712d4)
 
 
 ### Portabilidade:
 
-
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100734910/ad179b55-077a-42dc-8c0e-2cb4a45cb5fe
 
-### Segurança:
-
-
-
-
-
-
-
-
-
-
+### Satisfação:
 
 Disponível em <a href="https://lue4qkj7yaw.typeform.com/report/ld7TVXs2/JdcOmq9k9vCyM4Ud"> Formulário de pesquisa de satisfação</a>
 

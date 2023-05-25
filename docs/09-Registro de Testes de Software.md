@@ -108,6 +108,14 @@ https://user-images.githubusercontent.com/100742971/236596527-4bdaa986-e976-4ca8
 
 **Fluxo Alternativo 1**
 
+<p>Usuário não preencheu todos os campos obrigatórios.</p>
+
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100447878/656ced31-d14b-44df-905a-347e72d664f9
+
+
+
 <h3>CT-07 – Registro Check-up</h3>
 <p>Registro, atualização e exclusão de check-up.</p>
 

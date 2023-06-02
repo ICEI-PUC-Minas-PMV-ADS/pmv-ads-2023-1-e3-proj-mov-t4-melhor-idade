@@ -88,8 +88,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-i
 <h3>CT-05 – Registro de consumo de água</h3>
 <p>Registro, exclusão e atualização do consumo de água.</p>
 
-https://user-images.githubusercontent.com/100447878/235490302-407e00b8-76df-4aa5-91bb-fb9942b37a84.mp4
-
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/100447878/ee66afe7-ca40-4ca5-8fde-9c6cd98fae4f
 
 **Fluxo Alternativo 1**
 

@@ -72,7 +72,11 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-i
 
 
 
-https://user-images.githubusercontent.com/81182674/235951724-540e55d5-a958-4a68-8f5d-29ed6080b86b.MP4
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/81182674/2e6a921c-aba6-4462-b424-d47ca359b9e5
+
+
+
+
 
 **Fluxo Alternativo 1**
 
@@ -81,7 +85,14 @@ https://user-images.githubusercontent.com/81182674/235951724-540e55d5-a958-4a68-
 
 
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/81182674/68435c55-3495-4c9f-b9a0-6a1017359163
+
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade/assets/81182674/9045db31-858c-4df3-a80b-44fca04d5ac4
+
+
+
+
 
 
 

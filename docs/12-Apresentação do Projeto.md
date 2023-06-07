@@ -24,6 +24,6 @@ O framework React Native, utilizado em nosso projeto, oferece diversas funcional
 
 O JSON foi utilizado para simular a comunicação de dados entre o servidor e o cliente, atendendo perfeitamente às necessidades do nosso projeto, que tinha como foco principal o aprendizado.
 
-A linguagem JavaScript tem sido a base do nosso trabalho desde o início do semestre. Sua versatilidade nos proporcionou recursos poderosos para a interação do usuário, processamento de solicitações e muito mais.
+A linguagem JavaScript tem sido utilizada em nossos projetos desde o primeiro semestre da graduação. Sua versatilidade nos proporcionou recursos poderosos para a interação do usuário, processamento de solicitações e muito mais.
 
 Não podemos deixar de mencionar o papel fundamental do nosso professor orientador, Mateus Curcino, no sucesso do projeto. Além de possuir uma didática excelente, ele é um orientador altamente qualificado, que contribuiu significativamente com valiosas sugestões e colaborações para a equipe.

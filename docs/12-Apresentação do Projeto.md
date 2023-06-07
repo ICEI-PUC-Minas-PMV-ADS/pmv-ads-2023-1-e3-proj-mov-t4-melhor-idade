@@ -24,6 +24,6 @@ O framework utilizado, React Native, apresenta diversos recursos para o desenvol
 
 O JSON foi utilizado para simular a comunicação de dados entre um servidor e cliente. Atendeu as necessidades da equipe por se tratar de um projeto pequeno com foco no aprendizado. 
 
-A linguagem Javascript vem sendo urilizada pela equipe desde o primeiro semestre. É uma linguagem versátil com recursos para a interação do usuário, processamento de solicitações, entre outros.
+A linguagem Javascript vem sendo utilizada pela equipe desde o primeiro semestre. É uma linguagem versátil com recursos para a interação do usuário, processamento de solicitações, entre outros.
 
 Não podemos deixar de mencionar o papel fundamental do nosso professor orientador, Mateus Curcino, no sucesso do projeto. Além de possuir uma didática excelente, ele é um orientador altamente qualificado, que contribuiu significativamente com valiosas sugestões e colaborações para a equipe.

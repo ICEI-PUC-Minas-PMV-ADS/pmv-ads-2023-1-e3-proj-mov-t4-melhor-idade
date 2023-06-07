@@ -22,7 +22,7 @@ A ferramenta Expo Dev, utilizada para desenvolver o código da aplicação móve
 
 O framework React Native, utilizado em nosso projeto, oferece diversas funcionalidades para o desenvolvimento de aplicativos móveis multiplataforma. Ele nos permitiu criar interfaces ricas e responsivas, estimulando a nossa criatividade. No entanto, notamos algumas diferenças sutis na aplicação entre os sistemas operacionais Android e iOS.
 
-O JSON foi utilizado para simular a comunicação de dados entre o servidor e o cliente, atendendo perfeitamente às necessidades do nosso projeto, que tinha como foco principal o aprendizado, mesmo sendo um projeto de escala reduzida.
+O JSON foi utilizado para simular a comunicação de dados entre o servidor e o cliente, atendendo perfeitamente às necessidades do nosso projeto, que tinha como foco principal o aprendizado.
 
 A linguagem JavaScript tem sido a base do nosso trabalho desde o início do semestre. Sua versatilidade nos proporcionou recursos poderosos para a interação do usuário, processamento de solicitações e muito mais.
 

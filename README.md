@@ -24,7 +24,13 @@ O objetivo deste projeto é a criação de uma aplicação móvel de fácil aces
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Para ter acesso a aplicação móvel, <a href="https://snack.expo.dev/@procopiodaiane/melhor-idade">clique aqui</a>.
+
+Para fazer o login no sistema, utilize os dados abaixo:
+
+Email: admin@melhoridade.com
+<br>
+Senha: 12345
 
 # Documentação
 

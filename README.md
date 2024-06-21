@@ -8,6 +8,31 @@
 
 #### 2023/1
 
+[Uploadingmessage: Please cite this software using these metadata.
+title: Melhor Idade
+authors:
+  - family-names: Campos Procópio
+    given-names: Daiane
+  - family-names: Augusta de Barcelos Coura
+    given-names: Fernanda
+  - family-names: Faustini de Azevedo
+    given-names: Guilherme
+  - family-names: Calazans Rodrigues de Magalhães
+    given-names: Juliana
+  - family-names: Karina Prado Costa
+    given-names: Rúbia
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Curcino De Lima
+    given-names: Mateus
+keywords:
+  - Saúde
+  - Medicina
+  - Bem estar
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-melhor-idade
+version: 1.0.0
+date-released: 2023-06-04 citation.cff…]()
+
 O objetivo deste projeto é a criação de uma aplicação móvel de fácil acesso para pessoas da terceira idade, com o intuito de melhorar a qualidade de vida dos usuários através de funcionalidades que irão auxiliá-los em seu dia-a-dia.
 
 ## Integrantes
